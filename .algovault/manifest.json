@@ -1,24 +1,230 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:16:44.530Z",
+  "lastUpdated": "2026-08-24T08:16:45.124Z",
   "platforms": {
     "leetcode": {
       "submissions": {
-        "two-sum": {
-          "questionId": "1",
-          "title": "Two Sum",
-          "titleSlug": "two-sum",
+        "alternating-digit-sum": {
+          "questionId": "2544",
+          "title": "Alternating Digit Sum",
+          "titleSlug": "alternating-digit-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Alternating Digit Sum/"
+            }
+          }
+        },
+        "add-digits": {
+          "questionId": "258",
+          "title": "Add Digits",
+          "titleSlug": "add-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "2 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Add Digits/"
+            }
+          }
+        },
+        "make-the-string-great": {
+          "questionId": "1544",
+          "title": "Make The String Great",
+          "titleSlug": "make-the-string-great",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "3 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/String/Make The String Great/"
+            }
+          }
+        },
+        "multiply-strings": {
+          "questionId": "43",
+          "title": "Multiply Strings",
+          "titleSlug": "multiply-strings",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "3 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Math/Multiply Strings/"
+            }
+          }
+        },
+        "minimum-positive-sum-subarray": {
+          "questionId": "3364",
+          "title": "Minimum Positive Sum Subarray ",
+          "titleSlug": "minimum-positive-sum-subarray",
           "difficulty": "Easy",
           "tags": [
             "Array",
-            "Hash Table"
+            "Sliding Window",
+            "Prefix Sum"
           ],
           "solutions": {
-            "1c": {
-              "syncedAt": 1787559404530,
-              "runtime": "2 ms",
-              "memory": "45.24 MB",
-              "githubPath": "LeetCode/Array/Two Sum/"
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "3 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Array/Minimum Positive Sum Subarray /"
+            }
+          }
+        },
+        "check-if-two-string-arrays-are-equivalent": {
+          "questionId": "1662",
+          "title": "Check If Two String Arrays are Equivalent",
+          "titleSlug": "check-if-two-string-arrays-are-equivalent",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "1 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Check If Two String Arrays are Equivalent/"
+            }
+          }
+        },
+        "shuffle-string": {
+          "questionId": "1528",
+          "title": "Shuffle String",
+          "titleSlug": "shuffle-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "1 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Shuffle String/"
+            }
+          }
+        },
+        "to-lower-case": {
+          "questionId": "709",
+          "title": "To Lower Case",
+          "titleSlug": "to-lower-case",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
+            }
+          }
+        },
+        "reverse-words-in-a-string-iii": {
+          "questionId": "557",
+          "title": "Reverse Words in a String III",
+          "titleSlug": "reverse-words-in-a-string-iii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "5 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
+            }
+          }
+        },
+        "sort-characters-by-frequency": {
+          "questionId": "451",
+          "title": "Sort Characters By Frequency",
+          "titleSlug": "sort-characters-by-frequency",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "14 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Hash Table/Sort Characters By Frequency/"
+            }
+          }
+        },
+        "first-unique-character-in-a-string": {
+          "questionId": "387",
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Queue",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "6 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559405124,
+              "runtime": "65 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             }
           }
         }
