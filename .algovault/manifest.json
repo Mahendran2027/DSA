@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T09:39:07.277Z",
+  "lastUpdated": "2026-08-24T10:21:19.521Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2538,6 +2538,25 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/String/Decode String/"
+            }
+          }
+        },
+        "minimum-string-length-after-removing-substrings": {
+          "questionId": "2696",
+          "title": "Minimum String Length After Removing Substrings",
+          "titleSlug": "minimum-string-length-after-removing-substrings",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787566879521,
+              "runtime": "11 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/String/Minimum String Length After Removing Substrings/"
             }
           }
         }
