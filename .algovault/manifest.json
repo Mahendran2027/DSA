@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T09:37:12.531Z",
+  "lastUpdated": "2026-08-24T09:39:07.277Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2531,6 +2531,12 @@
               "syncedAt": 1787564232531,
               "runtime": "1 ms",
               "memory": "42.7 MB",
+              "githubPath": "LeetCode/String/Decode String/"
+            },
+            "20212223191817161514121311108976543242526            }            else if(c==']')            {                int count=number.pop();                  sb=new stringbuilder();                  current =0;                   variable.push(sb);                   number.push(current);            {            else if(c=='[')                current=current*10+(c-'0');            }            {            if(character.isdigit(c))        {            char  c=s.charat(i);        for(int i=0;i<s.length();i++)        stringbuilder sb=new stringbuilder();        int current=0;        stack<stringbuilder>variable=new stack<>();        stack<integer>number=new stack<>();                stringbuilder print=variable.pop();                 for(int k=0;k<count;k++)                {": {
+              "syncedAt": 1787564347277,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/String/Decode String/"
             }
           }
