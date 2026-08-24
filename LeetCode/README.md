@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559447353" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559455802" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -20,7 +20,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
@@ -36,16 +38,21 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
 | 819 | [Most Common Word](./Array/Most%20Common%20Word/) | Easy |
 | 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
+| 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
 | 1018 | [Binary Prefix Divisible By 5](./Array/Binary%20Prefix%20Divisible%20By%205/) | Easy |
 | 1207 | [Unique Number of Occurrences](./Array/Unique%20Number%20of%20Occurrences/) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
+| 1464 | [Maximum Product of Two Elements in an Array](./Array/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
 | 1588 | [Sum of All Odd Length Subarrays](./Array/Sum%20of%20All%20Odd%20Length%20Subarrays/) | Easy |
 | 1662 | [Check If Two String Arrays are Equivalent](./Array/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
+| 1961 | [Check If String Is a Prefix of Array](./Array/Check%20If%20String%20Is%20a%20Prefix%20of%20Array/) | Easy |
+| 2149 | [Rearrange Array Elements by Sign](./Array/Rearrange%20Array%20Elements%20by%20Sign/) | Medium |
 | 2553 | [Separate the Digits in an Array](./Array/Separate%20the%20Digits%20in%20an%20Array/) | Easy |
 | 2778 | [Sum of Squares of Special Elements ](./Array/Sum%20of%20Squares%20of%20Special%20Elements%20/) | Easy |
+| 3300 | [Minimum Element After Replacement With Digit Sum](./Array/Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum/) | Easy |
 | 3364 | [Minimum Positive Sum Subarray ](./Array/Minimum%20Positive%20Sum%20Subarray%20/) | Easy |
 | 3523 | [Make Array Non-decreasing](./Array/Make%20Array%20Non-decreasing/) | Medium |
 | 3731 | [Find Missing Elements](./Array/Find%20Missing%20Elements/) | Easy |
@@ -116,7 +123,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 633 | [Sum of Square Numbers](./Math/Sum%20of%20Square%20Numbers/) | Medium |
 | 2544 | [Alternating Digit Sum](./Math/Alternating%20Digit%20Sum/) | Easy |
+| 3345 | [Smallest Divisible Digit Product I](./Math/Smallest%20Divisible%20Digit%20Product%20I/) | Easy |
+| 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |
 | 3622 | [Check Divisibility by Digit Sum and Product](./Math/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product/) | Easy |
+| 3658 | [GCD of Odd and Even Sums](./Math/GCD%20of%20Odd%20and%20Even%20Sums/) | Easy |
 
 </details>
 
@@ -182,7 +192,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
 | 844 | [Backspace String Compare](./Two%20Pointers/Backspace%20String%20Compare/) | Easy |
+| 917 | [Reverse Only Letters](./Two%20Pointers/Reverse%20Only%20Letters/) | Easy |
 | 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
+| 2938 | [Separate Black and White Balls](./Two%20Pointers/Separate%20Black%20and%20White%20Balls/) | Medium |
+| 3794 | [Reverse String Prefix](./Two%20Pointers/Reverse%20String%20Prefix/) | Easy |
 
 </details>
 
