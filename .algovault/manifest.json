@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:16:45.124Z",
+  "lastUpdated": "2026-08-24T08:16:55.514Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -225,6 +225,211 @@
               "runtime": "65 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "next-greater-element-i": {
+          "questionId": "496",
+          "title": "Next Greater Element I",
+          "titleSlug": "next-greater-element-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "4 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element I/"
+            }
+          }
+        },
+        "check-divisibility-by-digit-sum-and-product": {
+          "questionId": "3622",
+          "title": "Check Divisibility by Digit Sum and Product",
+          "titleSlug": "check-divisibility-by-digit-sum-and-product",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Math/Check Divisibility by Digit Sum and Product/"
+            }
+          }
+        },
+        "set-mismatch": {
+          "questionId": "645",
+          "title": "Set Mismatch",
+          "titleSlug": "set-mismatch",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "17 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Set Mismatch/"
+            }
+          }
+        },
+        "how-many-numbers-are-smaller-than-the-current-number": {
+          "questionId": "1365",
+          "title": "How Many Numbers Are Smaller Than the Current Number",
+          "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "13 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Array/How Many Numbers Are Smaller Than the Current Number/"
+            }
+          }
+        },
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "6 ms",
+              "memory": "66.8 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "max-consecutive-ones": {
+          "questionId": "485",
+          "title": "Max Consecutive Ones",
+          "titleSlug": "max-consecutive-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "3 ms",
+              "memory": "52.7 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            }
+          }
+        },
+        "shuffle-the-array": {
+          "questionId": "1470",
+          "title": "Shuffle the Array",
+          "titleSlug": "shuffle-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "1 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "reverse-prefix-of-word": {
+          "questionId": "2000",
+          "title": "Reverse Prefix of Word",
+          "titleSlug": "reverse-prefix-of-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "2 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
+            }
+          }
+        },
+        "merge-adjacent-equal-elements": {
+          "questionId": "3834",
+          "title": "Merge Adjacent Equal Elements",
+          "titleSlug": "merge-adjacent-equal-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "70 ms",
+              "memory": "133.5 MB",
+              "githubPath": "LeetCode/Array/Merge Adjacent Equal Elements/"
+            }
+          }
+        },
+        "make-array-non-decreasing": {
+          "questionId": "3523",
+          "title": "Make Array Non-decreasing",
+          "titleSlug": "make-array-non-decreasing",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559415514,
+              "runtime": "3 ms",
+              "memory": "137.5 MB",
+              "githubPath": "LeetCode/Array/Make Array Non-decreasing/"
             }
           }
         }

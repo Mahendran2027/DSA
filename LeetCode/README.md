@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559405125" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559415514" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,9 +16,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
+| 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
+| 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
+| 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
 | 1662 | [Check If Two String Arrays are Equivalent](./Array/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/) | Easy |
+| 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 3364 | [Minimum Positive Sum Subarray ](./Array/Minimum%20Positive%20Sum%20Subarray%20/) | Easy |
+| 3523 | [Make Array Non-decreasing](./Array/Make%20Array%20Non-decreasing/) | Medium |
+| 3834 | [Merge Adjacent Equal Elements](./Array/Merge%20Adjacent%20Equal%20Elements/) | Medium |
 
 </details>
 
@@ -45,6 +54,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 2544 | [Alternating Digit Sum](./Math/Alternating%20Digit%20Sum/) | Easy |
+| 3622 | [Check Divisibility by Digit Sum and Product](./Math/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product/) | Easy |
 
 </details>
 
@@ -68,6 +78,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
+| 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
 
 </details>
 
