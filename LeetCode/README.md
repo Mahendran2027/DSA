@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559423318" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559430667" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,6 +16,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
+| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
@@ -24,6 +28,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 648 | [Replace Words](./Array/Replace%20Words/) | Medium |
 | 682 | [Baseball Game](./Array/Baseball%20Game/) | Easy |
+| 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
+| 819 | [Most Common Word](./Array/Most%20Common%20Word/) | Easy |
+| 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
+| 1018 | [Binary Prefix Divisible By 5](./Array/Binary%20Prefix%20Divisible%20By%205/) | Easy |
+| 1207 | [Unique Number of Occurrences](./Array/Unique%20Number%20of%20Occurrences/) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
@@ -99,6 +108,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 | 3174 | [Clear Digits](./String/Clear%20Digits/) | Easy |
+
+</details>
+
+
+### Tree
+<details>
+<summary>Click to expand Tree problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
+| 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
 
 </details>
 

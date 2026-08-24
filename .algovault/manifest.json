@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:17:03.318Z",
+  "lastUpdated": "2026-08-24T08:17:10.666Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -681,6 +681,214 @@
               "runtime": "47 ms",
               "memory": "115.6 MB",
               "githubPath": "LeetCode/Array/Non-overlapping Intervals/"
+            }
+          }
+        },
+        "unique-number-of-occurrences": {
+          "questionId": "1207",
+          "title": "Unique Number of Occurrences",
+          "titleSlug": "unique-number-of-occurrences",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "2 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Unique Number of Occurrences/"
+            }
+          }
+        },
+        "most-common-word": {
+          "questionId": "819",
+          "title": "Most Common Word",
+          "titleSlug": "most-common-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "22 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/Most Common Word/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "1 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "binary-search": {
+          "questionId": "704",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "0 ms",
+              "memory": "48.5 MB",
+              "githubPath": "LeetCode/Array/Binary Search/"
+            }
+          }
+        },
+        "missing-number": {
+          "questionId": "268",
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "9 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Missing Number/"
+            }
+          }
+        },
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "2 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "23 ms",
+              "memory": "81.7 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "binary-prefix-divisible-by-5": {
+          "questionId": "1018",
+          "title": "Binary Prefix Divisible By 5",
+          "titleSlug": "binary-prefix-divisible-by-5",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "3 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Binary Prefix Divisible By 5/"
+            }
+          }
+        },
+        "monotonic-array": {
+          "questionId": "896",
+          "title": "Monotonic Array",
+          "titleSlug": "monotonic-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "3 ms",
+              "memory": "85.2 MB",
+              "githubPath": "LeetCode/Array/Monotonic Array/"
+            }
+          }
+        },
+        "symmetric-tree": {
+          "questionId": "101",
+          "title": "Symmetric Tree",
+          "titleSlug": "symmetric-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Tree/Symmetric Tree/"
+            }
+          }
+        },
+        "sum-root-to-leaf-numbers": {
+          "questionId": "129",
+          "title": "Sum Root to Leaf Numbers",
+          "titleSlug": "sum-root-to-leaf-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559430666,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
             }
           }
         }
