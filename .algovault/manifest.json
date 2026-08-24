@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:17:57.440Z",
+  "lastUpdated": "2026-08-24T08:18:04.290Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2310,6 +2310,190 @@
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/String/Number of Segments in a String/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array": {
+          "questionId": "33",
+          "title": "Search in Rotated Sorted Array",
+          "titleSlug": "search-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559484290,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559484290,
+              "runtime": "1 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1787559484290,
+              "runtime": "43 ms",
+              "memory": "49.1 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "number-of-1-bits": {
+          "questionId": "191",
+          "title": "Number of 1 Bits",
+          "titleSlug": "number-of-1-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559484290,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
+            }
+          }
+        },
+        "find-the-duplicate-number": {
+          "questionId": "287",
+          "title": "Find the Duplicate Number",
+          "titleSlug": "find-the-duplicate-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Bit Manipulation",
+            "Pigeonhole Principle",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559484290,
+              "runtime": "30 ms",
+              "memory": "114.8 MB",
+              "githubPath": "LeetCode/Array/Find the Duplicate Number/"
+            }
+          }
+        },
+        "managers-with-at-least-5-direct-reports": {
+          "questionId": "570",
+          "title": "Managers with at Least 5 Direct Reports",
+          "titleSlug": "managers-with-at-least-5-direct-reports",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787559484290,
+              "runtime": "574 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
+            }
+          }
+        },
+        "department-highest-salary": {
+          "questionId": "184",
+          "title": "Department Highest Salary",
+          "titleSlug": "department-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787559484290,
+              "runtime": "1043 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Department Highest Salary/"
+            }
+          }
+        },
+        "nth-highest-salary": {
+          "questionId": "177",
+          "title": "Nth Highest Salary",
+          "titleSlug": "nth-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787559484290,
+              "runtime": "454 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Nth Highest Salary/"
+            }
+          }
+        },
+        "second-highest-salary": {
+          "questionId": "176",
+          "title": "Second Highest Salary",
+          "titleSlug": "second-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787559484290,
+              "runtime": "282 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Second Highest Salary/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm",
+            "Boyer–Moore String-Search Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559484290,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559477441" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559484291" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,7 +16,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
+| 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
+| 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
@@ -38,6 +41,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 274 | [H-Index](./Array/H-Index/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
@@ -104,6 +108,31 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 461 | [Hamming Distance](./Bit%20Manipulation/Hamming%20Distance/) | Easy |
 | 476 | [Number Complement](./Bit%20Manipulation/Number%20Complement/) | Easy |
 | 2595 | [Number of Even and Odd Bits](./Bit%20Manipulation/Number%20of%20Even%20and%20Odd%20Bits/) | Easy |
+
+</details>
+
+
+### Database
+<details>
+<summary>Click to expand Database problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
+| 177 | [Nth Highest Salary](./Database/Nth%20Highest%20Salary/) | Medium |
+| 184 | [Department Highest Salary](./Database/Department%20Highest%20Salary/) | Medium |
+| 570 | [Managers with at Least 5 Direct Reports](./Database/Managers%20with%20at%20Least%205%20Direct%20Reports/) | Medium |
+
+</details>
+
+
+### Divide and Conquer
+<details>
+<summary>Click to expand Divide and Conquer problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 191 | [Number of 1 Bits](./Divide%20and%20Conquer/Number%20of%201%20Bits/) | Easy |
 
 </details>
 
@@ -230,6 +259,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
 | 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
