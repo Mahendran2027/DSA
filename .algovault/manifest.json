@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:17:53.116Z",
+  "lastUpdated": "2026-08-24T08:17:57.440Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2218,6 +2218,98 @@
               "runtime": "1 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Perfect Number/"
+            }
+          }
+        },
+        "find-first-and-last-position-of-element-in-sorted-array": {
+          "questionId": "34",
+          "title": "Find First and Last Position of Element in Sorted Array",
+          "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559477440,
+              "runtime": "0 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
+            }
+          }
+        },
+        "assign-cookies": {
+          "questionId": "455",
+          "title": "Assign Cookies",
+          "titleSlug": "assign-cookies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy",
+            "Sorting",
+            "Quicksort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559477440,
+              "runtime": "15 ms",
+              "memory": "51.3 MB",
+              "githubPath": "LeetCode/Array/Assign Cookies/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559477440,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "search-insert-position": {
+          "questionId": "35",
+          "title": "Search Insert Position",
+          "titleSlug": "search-insert-position",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559477440,
+              "runtime": "0 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/Search Insert Position/"
+            }
+          }
+        },
+        "number-of-segments-in-a-string": {
+          "questionId": "434",
+          "title": "Number of Segments in a String",
+          "titleSlug": "number-of-segments-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559477440,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/String/Number of Segments in a String/"
             }
           }
         }

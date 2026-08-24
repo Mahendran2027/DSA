@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559473117" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559477441" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -17,10 +17,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
+| 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
+| 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
@@ -38,6 +41,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
@@ -186,6 +190,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1078 | [Occurrences After Bigram](./String/Occurrences%20After%20Bigram/) | Easy |
