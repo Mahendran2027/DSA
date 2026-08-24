@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:17:46.899Z",
+  "lastUpdated": "2026-08-24T08:17:53.116Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2020,6 +2020,204 @@
               "runtime": "2 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Bit Manipulation/Number of Even and Odd Bits/"
+            }
+          }
+        },
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473115,
+              "runtime": "1 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "hamming-distance": {
+          "questionId": "461",
+          "title": "Hamming Distance",
+          "titleSlug": "hamming-distance",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473115,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
+            }
+          }
+        },
+        "binary-watch": {
+          "questionId": "401",
+          "title": "Binary Watch",
+          "titleSlug": "binary-watch",
+          "difficulty": "Easy",
+          "tags": [
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473115,
+              "runtime": "5 ms",
+              "memory": "49.5 MB",
+              "githubPath": "LeetCode/Backtracking/Binary Watch/"
+            }
+          }
+        },
+        "occurrences-after-bigram": {
+          "questionId": "1078",
+          "title": "Occurrences After Bigram",
+          "titleSlug": "occurrences-after-bigram",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473115,
+              "runtime": "2 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/String/Occurrences After Bigram/"
+            }
+          }
+        },
+        "reverse-string": {
+          "questionId": "344",
+          "title": "Reverse String",
+          "titleSlug": "reverse-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473115,
+              "runtime": "0 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473116,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "largest-number-at-least-twice-of-others": {
+          "questionId": "747",
+          "title": "Largest Number At Least Twice of Others",
+          "titleSlug": "largest-number-at-least-twice-of-others",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473116,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Largest Number At Least Twice of Others/"
+            }
+          }
+        },
+        "single-number-iii": {
+          "questionId": "260",
+          "title": "Single Number III",
+          "titleSlug": "single-number-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473116,
+              "runtime": "7 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Single Number III/"
+            }
+          }
+        },
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473116,
+              "runtime": "28 ms",
+              "memory": "111.4 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "maximum-subarray": {
+          "questionId": "53",
+          "title": "Maximum Subarray",
+          "titleSlug": "maximum-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473116,
+              "runtime": "1 ms",
+              "memory": "80.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
+            }
+          }
+        },
+        "perfect-number": {
+          "questionId": "507",
+          "title": "Perfect Number",
+          "titleSlug": "perfect-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559473116,
+              "runtime": "1 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Perfect Number/"
             }
           }
         }

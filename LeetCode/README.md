@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559466902" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559473117" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,17 +16,22 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
+| 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
+| 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
+| 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 274 | [H-Index](./Array/H-Index/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
@@ -41,6 +46,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 682 | [Baseball Game](./Array/Baseball%20Game/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
+| 747 | [Largest Number At Least Twice of Others](./Array/Largest%20Number%20At%20Least%20Twice%20of%20Others/) | Easy |
 | 819 | [Most Common Word](./Array/Most%20Common%20Word/) | Easy |
 | 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
@@ -80,6 +86,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 77 | [Combinations](./Backtracking/Combinations/) | Medium |
+| 401 | [Binary Watch](./Backtracking/Binary%20Watch/) | Easy |
 
 </details>
 
@@ -90,6 +97,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 461 | [Hamming Distance](./Bit%20Manipulation/Hamming%20Distance/) | Easy |
 | 476 | [Number Complement](./Bit%20Manipulation/Number%20Complement/) | Easy |
 | 2595 | [Number of Even and Odd Bits](./Bit%20Manipulation/Number%20of%20Even%20and%20Odd%20Bits/) | Easy |
 
@@ -145,6 +153,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 633 | [Sum of Square Numbers](./Math/Sum%20of%20Square%20Numbers/) | Medium |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
 | 1486 | [XOR Operation in an Array](./Math/XOR%20Operation%20in%20an%20Array/) | Easy |
@@ -179,6 +188,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
+| 1078 | [Occurrences After Bigram](./String/Occurrences%20After%20Bigram/) | Easy |
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 | 3174 | [Clear Digits](./String/Clear%20Digits/) | Easy |
@@ -215,6 +225,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
 | 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
