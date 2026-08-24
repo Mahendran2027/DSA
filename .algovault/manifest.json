@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:17:10.666Z",
+  "lastUpdated": "2026-08-24T08:17:19.407Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -889,6 +889,289 @@
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
+            }
+          }
+        },
+        "reverse-vowels-of-a-string": {
+          "questionId": "345",
+          "title": "Reverse Vowels of a String",
+          "titleSlug": "reverse-vowels-of-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "4 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
+            }
+          }
+        },
+        "combination-sum": {
+          "questionId": "39",
+          "title": "Combination Sum",
+          "titleSlug": "combination-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "2 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Combination Sum/"
+            }
+          }
+        },
+        "combinations": {
+          "questionId": "77",
+          "title": "Combinations",
+          "titleSlug": "combinations",
+          "difficulty": "Medium",
+          "tags": [
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "18 ms",
+              "memory": "98.3 MB",
+              "githubPath": "LeetCode/Backtracking/Combinations/"
+            }
+          }
+        },
+        "combination-sum-ii": {
+          "questionId": "40",
+          "title": "Combination Sum II",
+          "titleSlug": "combination-sum-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "6 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Combination Sum II/"
+            }
+          }
+        },
+        "delete-node-in-a-bst": {
+          "questionId": "450",
+          "title": "Delete Node in a BST",
+          "titleSlug": "delete-node-in-a-bst",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "0 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Tree/Delete Node in a BST/"
+            }
+          }
+        },
+        "find-missing-elements": {
+          "questionId": "3731",
+          "title": "Find Missing Elements",
+          "titleSlug": "find-missing-elements",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "8 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Array/Find Missing Elements/"
+            }
+          }
+        },
+        "insert-into-a-binary-search-tree": {
+          "questionId": "701",
+          "title": "Insert into a Binary Search Tree",
+          "titleSlug": "insert-into-a-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "0 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Tree/Insert into a Binary Search Tree/"
+            }
+          }
+        },
+        "search-in-a-binary-search-tree": {
+          "questionId": "700",
+          "title": "Search in a Binary Search Tree",
+          "titleSlug": "search-in-a-binary-search-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Tree/Search in a Binary Search Tree/"
+            }
+          }
+        },
+        "merge-two-binary-trees": {
+          "questionId": "617",
+          "title": "Merge Two Binary Trees",
+          "titleSlug": "merge-two-binary-trees",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "0 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Tree/Merge Two Binary Trees/"
+            }
+          }
+        },
+        "sum-of-left-leaves": {
+          "questionId": "404",
+          "title": "Sum of Left Leaves",
+          "titleSlug": "sum-of-left-leaves",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Tree/Sum of Left Leaves/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal": {
+          "questionId": "102",
+          "title": "Binary Tree Level Order Traversal",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
+            }
+          }
+        },
+        "fizz-buzz": {
+          "questionId": "412",
+          "title": "Fizz Buzz",
+          "titleSlug": "fizz-buzz",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
+            }
+          }
+        },
+        "powx-n": {
+          "questionId": "50",
+          "title": "Pow(x, n)",
+          "titleSlug": "powx-n",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "0 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Math/Pow(x, n)/"
+            }
+          }
+        },
+        "binary-tree-postorder-traversal": {
+          "questionId": "145",
+          "title": "Binary Tree Postorder Traversal",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
+            }
+          }
+        },
+        "binary-tree-preorder-traversal": {
+          "questionId": "144",
+          "title": "Binary Tree Preorder Traversal",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559439407,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559430667" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559439408" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,6 +16,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
+| 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
@@ -40,7 +42,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 3364 | [Minimum Positive Sum Subarray ](./Array/Minimum%20Positive%20Sum%20Subarray%20/) | Easy |
 | 3523 | [Make Array Non-decreasing](./Array/Make%20Array%20Non-decreasing/) | Medium |
+| 3731 | [Find Missing Elements](./Array/Find%20Missing%20Elements/) | Easy |
 | 3834 | [Merge Adjacent Equal Elements](./Array/Merge%20Adjacent%20Equal%20Elements/) | Medium |
+
+</details>
+
+
+### Backtracking
+<details>
+<summary>Click to expand Backtracking problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 77 | [Combinations](./Backtracking/Combinations/) | Medium |
 
 </details>
 
@@ -89,9 +103,23 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
+| 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 2544 | [Alternating Digit Sum](./Math/Alternating%20Digit%20Sum/) | Easy |
 | 3622 | [Check Divisibility by Digit Sum and Product](./Math/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product/) | Easy |
+
+</details>
+
+
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
+| 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
 
 </details>
 
@@ -119,7 +147,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
+| 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
+| 404 | [Sum of Left Leaves](./Tree/Sum%20of%20Left%20Leaves/) | Easy |
+| 450 | [Delete Node in a BST](./Tree/Delete%20Node%20in%20a%20BST/) | Medium |
+| 617 | [Merge Two Binary Trees](./Tree/Merge%20Two%20Binary%20Trees/) | Easy |
+| 700 | [Search in a Binary Search Tree](./Tree/Search%20in%20a%20Binary%20Search%20Tree/) | Easy |
+| 701 | [Insert into a Binary Search Tree](./Tree/Insert%20into%20a%20Binary%20Search%20Tree/) | Medium |
 
 </details>
 
@@ -130,6 +164,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
 | 844 | [Backspace String Compare](./Two%20Pointers/Backspace%20String%20Compare/) | Easy |
 | 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
