@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559415514" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559423318" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,10 +16,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
+| 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
+| 648 | [Replace Words](./Array/Replace%20Words/) | Medium |
+| 682 | [Baseball Game](./Array/Baseball%20Game/) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
@@ -28,6 +32,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3364 | [Minimum Positive Sum Subarray ](./Array/Minimum%20Positive%20Sum%20Subarray%20/) | Easy |
 | 3523 | [Make Array Non-decreasing](./Array/Make%20Array%20Non-decreasing/) | Medium |
 | 3834 | [Merge Adjacent Equal Elements](./Array/Merge%20Adjacent%20Equal%20Elements/) | Medium |
+
+</details>
+
+
+### Bit Manipulation
+<details>
+<summary>Click to expand Bit Manipulation problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 476 | [Number Complement](./Bit%20Manipulation/Number%20Complement/) | Easy |
 
 </details>
 
@@ -41,6 +56,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 451 | [Sort Characters By Frequency](./Hash%20Table/Sort%20Characters%20By%20Frequency/) | Medium |
+| 1079 | [Letter Tile Possibilities](./Hash%20Table/Letter%20Tile%20Possibilities/) | Medium |
+
+</details>
+
+
+### Linked List
+<details>
+<summary>Click to expand Linked List problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
+| 2095 | [Delete the Middle Node of a Linked List](./Linked%20List/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/) | Medium |
 
 </details>
 
@@ -65,8 +93,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
+| 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
+| 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
+| 3174 | [Clear Digits](./String/Clear%20Digits/) | Easy |
 
 </details>
 
@@ -78,6 +110,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
+| 844 | [Backspace String Compare](./Two%20Pointers/Backspace%20String%20Compare/) | Easy |
 | 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
 
 </details>
