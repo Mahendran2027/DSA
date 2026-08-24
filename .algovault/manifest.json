@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:17:40.992Z",
+  "lastUpdated": "2026-08-24T08:17:46.899Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1853,6 +1853,173 @@
               "runtime": "5 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/H-Index/"
+            }
+          }
+        },
+        "merge-sorted-array": {
+          "questionId": "88",
+          "title": "Merge Sorted Array",
+          "titleSlug": "merge-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559466899,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Merge Sorted Array/"
+            }
+          }
+        },
+        "is-subsequence": {
+          "questionId": "392",
+          "title": "Is Subsequence",
+          "titleSlug": "is-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559466899,
+              "runtime": "2 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
+            }
+          }
+        },
+        "subsets-ii": {
+          "questionId": "90",
+          "title": "Subsets II",
+          "titleSlug": "subsets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559466899,
+              "runtime": "3 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Subsets II/"
+            }
+          }
+        },
+        "two-out-of-three": {
+          "questionId": "2032",
+          "title": "Two Out of Three",
+          "titleSlug": "two-out-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559466899,
+              "runtime": "5 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Two Out of Three/"
+            }
+          }
+        },
+        "prime-number-of-set-bits-in-binary-representation": {
+          "questionId": "762",
+          "title": "Prime Number of Set Bits in Binary Representation",
+          "titleSlug": "prime-number-of-set-bits-in-binary-representation",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Primality Test"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559466899,
+              "runtime": "4 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Prime Number of Set Bits in Binary Representation/"
+            }
+          }
+        },
+        "xor-operation-in-an-array": {
+          "questionId": "1486",
+          "title": "XOR Operation in an Array",
+          "titleSlug": "xor-operation-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559466899,
+              "runtime": "19 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Math/XOR Operation in an Array/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array-ii": {
+          "questionId": "80",
+          "title": "Remove Duplicates from Sorted Array II",
+          "titleSlug": "remove-duplicates-from-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559466899,
+              "runtime": "0 ms",
+              "memory": "48.7 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array II/"
+            }
+          }
+        },
+        "find-xor-beauty-of-array": {
+          "questionId": "2527",
+          "title": "Find Xor-Beauty of Array",
+          "titleSlug": "find-xor-beauty-of-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559466899,
+              "runtime": "0 ms",
+              "memory": "70.7 MB",
+              "githubPath": "LeetCode/Array/Find Xor-Beauty of Array/"
+            }
+          }
+        },
+        "number-of-even-and-odd-bits": {
+          "questionId": "2595",
+          "title": "Number of Even and Odd Bits",
+          "titleSlug": "number-of-even-and-odd-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787559466899,
+              "runtime": "2 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Number of Even and Odd Bits/"
             }
           }
         }

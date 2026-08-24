@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559460993" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787559466902" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -22,6 +22,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
+| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
@@ -55,8 +58,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 1961 | [Check If String Is a Prefix of Array](./Array/Check%20If%20String%20Is%20a%20Prefix%20of%20Array/) | Easy |
+| 2032 | [Two Out of Three](./Array/Two%20Out%20of%20Three/) | Easy |
 | 2149 | [Rearrange Array Elements by Sign](./Array/Rearrange%20Array%20Elements%20by%20Sign/) | Medium |
 | 2256 | [Minimum Average Difference](./Array/Minimum%20Average%20Difference/) | Medium |
+| 2527 | [Find Xor-Beauty of Array](./Array/Find%20Xor-Beauty%20of%20Array/) | Medium |
 | 2553 | [Separate the Digits in an Array](./Array/Separate%20the%20Digits%20in%20an%20Array/) | Easy |
 | 2778 | [Sum of Squares of Special Elements ](./Array/Sum%20of%20Squares%20of%20Special%20Elements%20/) | Easy |
 | 3300 | [Minimum Element After Replacement With Digit Sum](./Array/Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum/) | Easy |
@@ -86,6 +91,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 476 | [Number Complement](./Bit%20Manipulation/Number%20Complement/) | Easy |
+| 2595 | [Number of Even and Odd Bits](./Bit%20Manipulation/Number%20of%20Even%20and%20Odd%20Bits/) | Easy |
 
 </details>
 
@@ -140,6 +146,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 633 | [Sum of Square Numbers](./Math/Sum%20of%20Square%20Numbers/) | Medium |
+| 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
+| 1486 | [XOR Operation in an Array](./Math/XOR%20Operation%20in%20an%20Array/) | Easy |
 | 2544 | [Alternating Digit Sum](./Math/Alternating%20Digit%20Sum/) | Easy |
 | 3345 | [Smallest Divisible Digit Product I](./Math/Smallest%20Divisible%20Digit%20Product%20I/) | Easy |
 | 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |
@@ -208,6 +216,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
+| 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
 | 844 | [Backspace String Compare](./Two%20Pointers/Backspace%20String%20Compare/) | Easy |
 | 917 | [Reverse Only Letters](./Two%20Pointers/Reverse%20Only%20Letters/) | Easy |
