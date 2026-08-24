@@ -1,0 +1,29 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-08-24T08:16:44.530Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "1c": {
+              "syncedAt": 1787559404530,
+              "runtime": "2 ms",
+              "memory": "45.24 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        }
+      },
+      "username": "mahendran2025_leetcode"
+    }
+  }
+}
