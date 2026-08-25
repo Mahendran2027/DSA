@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T06:45:57.491Z",
+  "lastUpdated": "2026-08-25T08:22:32.505Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1757,9 +1757,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559460992,
+              "syncedAt": 1787646152505,
               "runtime": "0 ms",
-              "memory": "42.9 MB",
+              "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Find the Highest Altitude/"
             }
           }
