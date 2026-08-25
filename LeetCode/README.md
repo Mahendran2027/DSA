@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787651164295" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787653190093" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -46,6 +46,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 453 | [Minimum Moves to Equal Array Elements](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements/) | Medium |
 | 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 491 | [Non-decreasing Subsequences](./Array/Non-decreasing%20Subsequences/) | Medium |

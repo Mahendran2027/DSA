@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T09:46:04.280Z",
+  "lastUpdated": "2026-08-25T10:19:50.078Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2653,6 +2653,24 @@
               "runtime": "1 ms",
               "memory": "94.3 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            }
+          }
+        },
+        "minimum-moves-to-equal-array-elements": {
+          "questionId": "453",
+          "title": "Minimum Moves to Equal Array Elements",
+          "titleSlug": "minimum-moves-to-equal-array-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787653190078,
+              "runtime": "16 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/Array/Minimum Moves to Equal Array Elements/"
             }
           }
         }
