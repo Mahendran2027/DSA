@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T04:04:23.425Z",
+  "lastUpdated": "2026-08-25T04:46:07.452Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2575,6 +2575,27 @@
               "runtime": "2 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Smallest Missing Multiple of K/"
+            }
+          }
+        },
+        "beautiful-arrangement": {
+          "questionId": "526",
+          "title": "Beautiful Arrangement",
+          "titleSlug": "beautiful-arrangement",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787633167451,
+              "runtime": "40 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Beautiful Arrangement/"
             }
           }
         }

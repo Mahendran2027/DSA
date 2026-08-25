@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787630663442" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787633167472" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -48,6 +48,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
+| 526 | [Beautiful Arrangement](./Array/Beautiful%20Arrangement/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 648 | [Replace Words](./Array/Replace%20Words/) | Medium |
