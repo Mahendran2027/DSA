@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T04:46:07.452Z",
+  "lastUpdated": "2026-08-25T05:48:14.368Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2596,6 +2596,26 @@
               "runtime": "40 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Beautiful Arrangement/"
+            }
+          }
+        },
+        "non-decreasing-subsequences": {
+          "questionId": "491",
+          "title": "Non-decreasing Subsequences",
+          "titleSlug": "non-decreasing-subsequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787636894368,
+              "runtime": "7 ms",
+              "memory": "52.8 MB",
+              "githubPath": "LeetCode/Array/Non-decreasing Subsequences/"
             }
           }
         }
