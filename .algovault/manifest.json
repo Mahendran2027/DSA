@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T10:21:19.521Z",
+  "lastUpdated": "2026-08-25T04:04:23.425Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2557,6 +2557,24 @@
               "runtime": "11 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/String/Minimum String Length After Removing Substrings/"
+            }
+          }
+        },
+        "smallest-missing-multiple-of-k": {
+          "questionId": "3718",
+          "title": "Smallest Missing Multiple of K",
+          "titleSlug": "smallest-missing-multiple-of-k",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787630663425,
+              "runtime": "2 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Smallest Missing Multiple of K/"
             }
           }
         }

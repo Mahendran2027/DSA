@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787566879546" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787630663442" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -81,6 +81,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3300 | [Minimum Element After Replacement With Digit Sum](./Array/Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum/) | Easy |
 | 3364 | [Minimum Positive Sum Subarray ](./Array/Minimum%20Positive%20Sum%20Subarray%20/) | Easy |
 | 3523 | [Make Array Non-decreasing](./Array/Make%20Array%20Non-decreasing/) | Medium |
+| 3718 | [Smallest Missing Multiple of K](./Array/Smallest%20Missing%20Multiple%20of%20K/) | Easy |
 | 3731 | [Find Missing Elements](./Array/Find%20Missing%20Elements/) | Easy |
 | 3834 | [Merge Adjacent Equal Elements](./Array/Merge%20Adjacent%20Equal%20Elements/) | Medium |
 
