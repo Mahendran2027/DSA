@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:19:50.078Z",
+  "lastUpdated": "2026-08-28T03:50:28.588Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2671,6 +2671,24 @@
               "runtime": "16 ms",
               "memory": "48.1 MB",
               "githubPath": "LeetCode/Array/Minimum Moves to Equal Array Elements/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787889028588,
+              "runtime": "2 ms",
+              "memory": "72.1 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
             }
           }
         }
