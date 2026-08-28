@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890736717" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890746993" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -17,6 +17,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Hard |
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 15 | [3Sum](./Array/3Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
@@ -30,6 +31,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
+| 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
@@ -45,6 +47,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 122 | [Best Time to Buy and Sell Stock II](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/) | Medium |
 | 123 | [Best Time to Buy and Sell Stock III](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/) | Hard |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
+| 135 | [Candy](./Array/Candy/) | Hard |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 139 | [Word Break](./Array/Word%20Break/) | Medium |
@@ -59,6 +62,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 200 | [Number of Islands](./Array/Number%20of%20Islands/) | Medium |
 | 204 | [Count Primes](./Array/Count%20Primes/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 212 | [Word Search II](./Array/Word%20Search%20II/) | Hard |
 | 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
 | 215 | [Kth Largest Element in an Array](./Array/Kth%20Largest%20Element%20in%20an%20Array/) | Medium |
 | 216 | [Combination Sum III](./Array/Combination%20Sum%20III/) | Medium |
@@ -78,6 +82,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 391 | [Perfect Rectangle](./Array/Perfect%20Rectangle/) | Hard |
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
 | 442 | [Find All Duplicates in an Array](./Array/Find%20All%20Duplicates%20in%20an%20Array/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
@@ -88,7 +93,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 491 | [Non-decreasing Subsequences](./Array/Non-decreasing%20Subsequences/) | Medium |
 | 493 | [Reverse Pairs](./Array/Reverse%20Pairs/) | Hard |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
+| 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
+| 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
 | 526 | [Beautiful Arrangement](./Array/Beautiful%20Arrangement/) | Medium |
+| 539 | [Minimum Time Difference](./Array/Minimum%20Time%20Difference/) | Medium |
 | 540 | [Single Element in a Sorted Array](./Array/Single%20Element%20in%20a%20Sorted%20Array/) | Medium |
 | 546 | [Remove Boxes](./Array/Remove%20Boxes/) | Hard |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
@@ -229,6 +237,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 124 | [Binary Tree Maximum Path Sum](./Dynamic%20Programming/Binary%20Tree%20Maximum%20Path%20Sum/) | Hard |
 | 338 | [Counting Bits](./Dynamic%20Programming/Counting%20Bits/) | Easy |
 
 </details>
@@ -280,6 +289,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
 | 19 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/) | Medium |
+| 23 | [Merge k Sorted Lists](./Linked%20List/Merge%20k%20Sorted%20Lists/) | Hard |
+| 25 | [Reverse Nodes in k-Group](./Linked%20List/Reverse%20Nodes%20in%20k-Group/) | Hard |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 143 | [Reorder List](./Linked%20List/Reorder%20List/) | Medium |
 | 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
@@ -302,11 +313,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
+| 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 458 | [Poor Pigs](./Math/Poor%20Pigs/) | Hard |
 | 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
 | 483 | [Smallest Good Base](./Math/Smallest%20Good%20Base/) | Hard |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
@@ -333,6 +346,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
 | 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
 | 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
+| 173 | [Binary Search Tree Iterator](./Stack/Binary%20Search%20Tree%20Iterator/) | Medium |
 | 232 | [Implement Queue using Stacks](./Stack/Implement%20Queue%20using%20Stacks/) | Easy |
 
 </details>
@@ -346,9 +360,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 65 | [Valid Number](./String/Valid%20Number/) | Hard |
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
+| 214 | [Shortest Palindrome](./String/Shortest%20Palindrome/) | Hard |
 | 394 | [Decode String](./String/Decode%20String/) | Medium |
 | 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 | 514 | [Freedom Trail](./String/Freedom%20Trail/) | Hard |
@@ -388,6 +404,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
 | 404 | [Sum of Left Leaves](./Tree/Sum%20of%20Left%20Leaves/) | Easy |
 | 450 | [Delete Node in a BST](./Tree/Delete%20Node%20in%20a%20BST/) | Medium |
+| 515 | [Find Largest Value in Each Tree Row](./Tree/Find%20Largest%20Value%20in%20Each%20Tree%20Row/) | Medium |
 | 617 | [Merge Two Binary Trees](./Tree/Merge%20Two%20Binary%20Trees/) | Easy |
 | 700 | [Search in a Binary Search Tree](./Tree/Search%20in%20a%20Binary%20Search%20Tree/) | Easy |
 | 701 | [Insert into a Binary Search Tree](./Tree/Insert%20into%20a%20Binary%20Search%20Tree/) | Medium |

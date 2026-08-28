@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:18:56.716Z",
+  "lastUpdated": "2026-08-28T04:19:06.991Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4888,6 +4888,343 @@
               "runtime": "1 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Math/Smallest Good Base/"
+            }
+          }
+        },
+        "poor-pigs": {
+          "questionId": "458",
+          "title": "Poor Pigs",
+          "titleSlug": "poor-pigs",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Combinatorics"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Poor Pigs/"
+            }
+          }
+        },
+        "perfect-rectangle": {
+          "questionId": "391",
+          "title": "Perfect Rectangle",
+          "titleSlug": "perfect-rectangle",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry",
+            "Sweep Line"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "14 ms",
+              "memory": "57.7 MB",
+              "githubPath": "LeetCode/Array/Perfect Rectangle/"
+            }
+          }
+        },
+        "shortest-palindrome": {
+          "questionId": "214",
+          "title": "Shortest Palindrome",
+          "titleSlug": "shortest-palindrome",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Rolling Hash",
+            "String Matching",
+            "Hash Function",
+            "Manacher",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "100 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/String/Shortest Palindrome/"
+            }
+          }
+        },
+        "candy": {
+          "questionId": "135",
+          "title": "Candy",
+          "titleSlug": "candy",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "3 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Candy/"
+            }
+          }
+        },
+        "binary-tree-maximum-path-sum": {
+          "questionId": "124",
+          "title": "Binary Tree Maximum Path Sum",
+          "titleSlug": "binary-tree-maximum-path-sum",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree",
+            "DP on Trees"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "0 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Binary Tree Maximum Path Sum/"
+            }
+          }
+        },
+        "valid-number": {
+          "questionId": "65",
+          "title": "Valid Number",
+          "titleSlug": "valid-number",
+          "difficulty": "Hard",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "1 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/String/Valid Number/"
+            }
+          }
+        },
+        "reverse-nodes-in-k-group": {
+          "questionId": "25",
+          "title": "Reverse Nodes in k-Group",
+          "titleSlug": "reverse-nodes-in-k-group",
+          "difficulty": "Hard",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "1 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Nodes in k-Group/"
+            }
+          }
+        },
+        "merge-k-sorted-lists": {
+          "questionId": "23",
+          "title": "Merge k Sorted Lists",
+          "titleSlug": "merge-k-sorted-lists",
+          "difficulty": "Hard",
+          "tags": [
+            "Linked List",
+            "Divide and Conquer",
+            "Heap (Priority Queue)",
+            "Merge Sort",
+            "Tournament Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "8 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Linked List/Merge k Sorted Lists/"
+            }
+          }
+        },
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "2 ms",
+              "memory": "48.9 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "word-search-ii": {
+          "questionId": "212",
+          "title": "Word Search II",
+          "titleSlug": "word-search-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Trie",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "27 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Word Search II/"
+            }
+          }
+        },
+        "text-justification": {
+          "questionId": "68",
+          "title": "Text Justification",
+          "titleSlug": "text-justification",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Text Justification/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "binary-search-tree-iterator": {
+          "questionId": "173",
+          "title": "Binary Search Tree Iterator",
+          "titleSlug": "binary-search-tree-iterator",
+          "difficulty": "Medium",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Design",
+            "Binary Search Tree",
+            "Binary Tree",
+            "Iterator"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "18 ms",
+              "memory": "50.4 MB",
+              "githubPath": "LeetCode/Stack/Binary Search Tree Iterator/"
+            }
+          }
+        },
+        "minimum-time-difference": {
+          "questionId": "539",
+          "title": "Minimum Time Difference",
+          "titleSlug": "minimum-time-difference",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "10 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Minimum Time Difference/"
+            }
+          }
+        },
+        "contiguous-array": {
+          "questionId": "525",
+          "title": "Contiguous Array",
+          "titleSlug": "contiguous-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "23 ms",
+              "memory": "65.4 MB",
+              "githubPath": "LeetCode/Array/Contiguous Array/"
+            }
+          }
+        },
+        "continuous-subarray-sum": {
+          "questionId": "523",
+          "title": "Continuous Subarray Sum",
+          "titleSlug": "continuous-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Prefix Sum",
+            "Pigeonhole Principle"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746990,
+              "runtime": "24 ms",
+              "memory": "139.8 MB",
+              "githubPath": "LeetCode/Array/Continuous Subarray Sum/"
+            }
+          }
+        },
+        "find-largest-value-in-each-tree-row": {
+          "questionId": "515",
+          "title": "Find Largest Value in Each Tree Row",
+          "titleSlug": "find-largest-value-in-each-tree-row",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890746991,
+              "runtime": "2 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Tree/Find Largest Value in Each Tree Row/"
             }
           }
         }
