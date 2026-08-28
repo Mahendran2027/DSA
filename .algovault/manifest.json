@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:50:43.260Z",
+  "lastUpdated": "2026-08-28T03:50:53.685Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2674,22 +2674,21 @@
             }
           }
         },
-        "longest-consecutive-sequence": {
-          "questionId": "128",
-          "title": "Longest Consecutive Sequence",
-          "titleSlug": "longest-consecutive-sequence",
+        "search-in-rotated-sorted-array-ii": {
+          "questionId": "81",
+          "title": "Search in Rotated Sorted Array II",
+          "titleSlug": "search-in-rotated-sorted-array-ii",
           "difficulty": "Medium",
           "tags": [
             "Array",
-            "Hash Table",
-            "Union-Find"
+            "Binary Search"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787889043259,
-              "runtime": "32 ms",
-              "memory": "95.3 MB",
-              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
+              "syncedAt": 1787889053685,
+              "runtime": "0 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array II/"
             }
           }
         }
