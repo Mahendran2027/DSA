@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:33:00.356Z",
+  "lastUpdated": "2026-08-28T04:46:43.422Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5611,6 +5611,23 @@
               "runtime": "0 ms",
               "memory": "42.98 MB",
               "githubPath": "LeetCode/String/Generate a String With Characters That Have Odd Counts/"
+            }
+          }
+        },
+        "replace-employee-id-with-the-unique-identifier": {
+          "questionId": "1378",
+          "title": "Replace Employee ID With The Unique Identifier",
+          "titleSlug": "replace-employee-id-with-the-unique-identifier",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787892403422,
+              "runtime": "1002 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Replace Employee ID With The Unique Identifier/"
             }
           }
         }
