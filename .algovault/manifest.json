@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:19:40.356Z",
+  "lastUpdated": "2026-08-28T04:30:17.365Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5575,6 +5575,25 @@
               "runtime": "3 ms",
               "memory": "48.9 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
+            }
+          }
+        },
+        "find-common-characters": {
+          "questionId": "1002",
+          "title": "Find Common Characters",
+          "titleSlug": "find-common-characters",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "121011967854321        for (int i = 1; i < words.length; i++) {            map.put(c, map.getordefault(c, 0) + 1);        }        for (char c : words[0].tochararray()) {        map<character, integer> map = new hashmap<>();        list<string> list = new arraylist<>();    public list<string> commonchars(string[] words) {class solution {": {
+              "syncedAt": 1787891417364,
+              "runtime": "0 ms",
+              "memory": "47.34 MB",
+              "githubPath": "LeetCode/Array/Find Common Characters/"
             }
           }
         }
