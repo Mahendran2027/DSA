@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:17:01.753Z",
+  "lastUpdated": "2026-08-28T04:17:11.034Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1345,7 +1345,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559447353,
+              "syncedAt": 1787890631034,
               "runtime": "0 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -1363,7 +1363,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559447353,
+              "syncedAt": 1787890631034,
               "runtime": "1 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
@@ -1381,7 +1381,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559447353,
+              "syncedAt": 1787890631034,
               "runtime": "3 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Valid Perfect Square/"
@@ -1400,7 +1400,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559447353,
+              "syncedAt": 1787890631034,
               "runtime": "4 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Math/Sum of Square Numbers/"
@@ -1418,7 +1418,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559447353,
+              "syncedAt": 1787890631034,
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Sum of Squares of Special Elements /"
@@ -1437,7 +1437,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559447353,
+              "syncedAt": 1787890631034,
               "runtime": "46 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Sum of All Odd Length Subarrays/"
@@ -1455,7 +1455,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559447353,
+              "syncedAt": 1787890631034,
               "runtime": "3 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Separate the Digits in an Array/"
@@ -1473,7 +1473,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559455801,
+              "syncedAt": 1787890631034,
               "runtime": "6 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Minimum Element After Replacement With Digit Sum/"
@@ -1491,7 +1491,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559455801,
+              "syncedAt": 1787890631034,
               "runtime": "3 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Math/GCD of Odd and Even Sums/"
@@ -1509,7 +1509,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559455801,
+              "syncedAt": 1787890631034,
               "runtime": "1 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
@@ -1528,7 +1528,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559455801,
+              "syncedAt": 1787890631034,
               "runtime": "5 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Maximum Product of Two Elements in an Array/"
@@ -1550,7 +1550,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559455801,
+              "syncedAt": 1787890631034,
               "runtime": "7 ms",
               "memory": "55.8 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
@@ -1569,7 +1569,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559455801,
+              "syncedAt": 1787890631034,
               "runtime": "3 ms",
               "memory": "175.4 MB",
               "githubPath": "LeetCode/Array/Rearrange Array Elements by Sign/"
@@ -1588,7 +1588,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559455801,
+              "syncedAt": 1787890631034,
               "runtime": "1 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Check If String Is a Prefix of Array/"
@@ -1609,7 +1609,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559455801,
+              "syncedAt": 1787890631034,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Sort Colors/"
@@ -1627,7 +1627,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559455801,
+              "syncedAt": 1787890631034,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
