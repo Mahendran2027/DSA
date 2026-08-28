@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:50:53.685Z",
+  "lastUpdated": "2026-08-28T03:51:27.489Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2674,21 +2674,20 @@
             }
           }
         },
-        "search-in-rotated-sorted-array-ii": {
-          "questionId": "81",
-          "title": "Search in Rotated Sorted Array II",
-          "titleSlug": "search-in-rotated-sorted-array-ii",
-          "difficulty": "Medium",
+        "department-top-three-salaries": {
+          "questionId": "185",
+          "title": "Department Top Three Salaries",
+          "titleSlug": "department-top-three-salaries",
+          "difficulty": "Hard",
           "tags": [
-            "Array",
-            "Binary Search"
+            "Database"
           ],
           "solutions": {
-            "java": {
-              "syncedAt": 1787889053685,
-              "runtime": "0 ms",
-              "memory": "44.7 MB",
-              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array II/"
+            "mysql": {
+              "syncedAt": 1787889087489,
+              "runtime": "1253 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Department Top Three Salaries/"
             }
           }
         }
