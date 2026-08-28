@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:16:27.756Z",
+  "lastUpdated": "2026-08-28T04:16:36.009Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -368,7 +368,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559415514,
+              "syncedAt": 1787890596009,
               "runtime": "1 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
@@ -387,7 +387,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559415514,
+              "syncedAt": 1787890596009,
               "runtime": "2 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
@@ -406,7 +406,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559415514,
+              "syncedAt": 1787890596009,
               "runtime": "70 ms",
               "memory": "133.5 MB",
               "githubPath": "LeetCode/Array/Merge Adjacent Equal Elements/"
@@ -426,7 +426,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559415514,
+              "syncedAt": 1787890596009,
               "runtime": "3 ms",
               "memory": "137.5 MB",
               "githubPath": "LeetCode/Array/Make Array Non-decreasing/"
@@ -445,7 +445,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559423318,
+              "syncedAt": 1787890596009,
               "runtime": "3 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/String/Clear Digits/"
@@ -464,7 +464,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559423318,
+              "syncedAt": 1787890596009,
               "runtime": "81 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/String/Removing Stars From a String/"
@@ -482,7 +482,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559423318,
+              "syncedAt": 1787890596009,
               "runtime": "23 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
@@ -502,7 +502,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559423318,
+              "syncedAt": 1787890596009,
               "runtime": "2 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Two Pointers/Backspace String Compare/"
@@ -521,7 +521,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559423318,
+              "syncedAt": 1787890596009,
               "runtime": "3 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Baseball Game/"
@@ -541,7 +541,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559423318,
+              "syncedAt": 1787890596009,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Hash Table/Letter Tile Possibilities/"
@@ -560,7 +560,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559423318,
+              "syncedAt": 1787890596009,
               "runtime": "3 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
