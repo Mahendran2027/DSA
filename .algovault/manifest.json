@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:19:33.899Z",
+  "lastUpdated": "2026-08-28T04:19:36.281Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2743,8 +2743,8 @@
               "memory": "42.7 MB",
               "githubPath": "LeetCode/String/Longest Uncommon Subsequence I/"
             },
-            "1c": {
-              "syncedAt": 1787890773899,
+            "123456class solution {    public int findluslength(string a, string b) {        if(a.equals(b)) return -1;        return math.max(a.length(),b.length());    }}": {
+              "syncedAt": 1787890776281,
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/String/Longest Uncommon Subsequence I/"
