@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:53:27.909Z",
+  "lastUpdated": "2026-08-28T04:16:04.350Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2725,6 +2725,23 @@
               "runtime": "10 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Math/Fibonacci Number/"
+            }
+          }
+        },
+        "longest-uncommon-subsequence-i": {
+          "questionId": "521",
+          "title": "Longest Uncommon Subsequence I",
+          "titleSlug": "longest-uncommon-subsequence-i",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "123456class solution {    public int findluslength(string a, string b) {        if(a.equals(b)) return -1;        return math.max(a.length(),b.length());    }}": {
+              "syncedAt": 1787890564350,
+              "runtime": "0 ms",
+              "memory": "N/A",
+              "githubPath": "LeetCode/String/Longest Uncommon Subsequence I/"
             }
           }
         }
