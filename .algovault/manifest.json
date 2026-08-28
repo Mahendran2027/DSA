@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:18:19.111Z",
+  "lastUpdated": "2026-08-28T04:18:32.647Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3803,6 +3803,359 @@
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Array/Combination Sum III/"
+            }
+          }
+        },
+        "kth-largest-element-in-an-array": {
+          "questionId": "215",
+          "title": "Kth Largest Element in an Array",
+          "titleSlug": "kth-largest-element-in-an-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Quickselect"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "26 ms",
+              "memory": "70.2 MB",
+              "githubPath": "LeetCode/Array/Kth Largest Element in an Array/"
+            }
+          }
+        },
+        "house-robber-ii": {
+          "questionId": "213",
+          "title": "House Robber II",
+          "titleSlug": "house-robber-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/House Robber II/"
+            }
+          }
+        },
+        "count-primes": {
+          "questionId": "204",
+          "title": "Count Primes",
+          "titleSlug": "count-primes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Enumeration",
+            "Number Theory",
+            "Primality Test",
+            "Sieve Theory",
+            "Prime Number Sieve"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "94 ms",
+              "memory": "51.1 MB",
+              "githubPath": "LeetCode/Array/Count Primes/"
+            }
+          }
+        },
+        "number-of-islands": {
+          "questionId": "200",
+          "title": "Number of Islands",
+          "titleSlug": "number-of-islands",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "40 ms",
+              "memory": "58.2 MB",
+              "githubPath": "LeetCode/Array/Number of Islands/"
+            }
+          }
+        },
+        "house-robber": {
+          "questionId": "198",
+          "title": "House Robber",
+          "titleSlug": "house-robber",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/House Robber/"
+            }
+          }
+        },
+        "largest-number": {
+          "questionId": "179",
+          "title": "Largest Number",
+          "titleSlug": "largest-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "6 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Largest Number/"
+            }
+          }
+        },
+        "two-sum-ii-input-array-is-sorted": {
+          "questionId": "167",
+          "title": "Two Sum II - Input Array Is Sorted",
+          "titleSlug": "two-sum-ii-input-array-is-sorted",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "2 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Two Sum II - Input Array Is Sorted/"
+            }
+          }
+        },
+        "find-peak-element": {
+          "questionId": "162",
+          "title": "Find Peak Element",
+          "titleSlug": "find-peak-element",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "0 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Find Peak Element/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array": {
+          "questionId": "153",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
+            }
+          }
+        },
+        "maximum-product-subarray": {
+          "questionId": "152",
+          "title": "Maximum Product Subarray",
+          "titleSlug": "maximum-product-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "0 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Maximum Product Subarray/"
+            }
+          }
+        },
+        "evaluate-reverse-polish-notation": {
+          "questionId": "150",
+          "title": "Evaluate Reverse Polish Notation",
+          "titleSlug": "evaluate-reverse-polish-notation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "6 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Evaluate Reverse Polish Notation/"
+            }
+          }
+        },
+        "word-break": {
+          "questionId": "139",
+          "title": "Word Break",
+          "titleSlug": "word-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Trie",
+            "Memoization",
+            "Brute-Force Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "3 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Word Break/"
+            }
+          }
+        },
+        "single-number-ii": {
+          "questionId": "137",
+          "title": "Single Number II",
+          "titleSlug": "single-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "1 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Single Number II/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-ii": {
+          "questionId": "122",
+          "title": "Best Time to Buy and Sell Stock II",
+          "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "0 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock II/"
+            }
+          }
+        },
+        "triangle": {
+          "questionId": "120",
+          "title": "Triangle",
+          "titleSlug": "triangle",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "5 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Triangle/"
+            }
+          }
+        },
+        "construct-binary-tree-from-inorder-and-postorder-traversal": {
+          "questionId": "106",
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "3 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Construct Binary Tree from Inorder and Postorder Traversal/"
+            }
+          }
+        },
+        "construct-binary-tree-from-preorder-and-inorder-traversal": {
+          "questionId": "105",
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "0 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Construct Binary Tree from Preorder and Inorder Traversal/"
+            }
+          }
+        },
+        "lru-cache": {
+          "questionId": "146",
+          "title": "LRU Cache",
+          "titleSlug": "lru-cache",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Doubly-Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890712647,
+              "runtime": "47 ms",
+              "memory": "134 MB",
+              "githubPath": "LeetCode/Hash Table/LRU Cache/"
             }
           }
         }

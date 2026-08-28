@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890699115" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890712648" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -35,11 +35,28 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/) | Medium |
+| 120 | [Triangle](./Array/Triangle/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
+| 122 | [Best Time to Buy and Sell Stock II](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/) | Medium |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
+| 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
+| 139 | [Word Break](./Array/Word%20Break/) | Medium |
+| 150 | [Evaluate Reverse Polish Notation](./Array/Evaluate%20Reverse%20Polish%20Notation/) | Medium |
+| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
+| 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
+| 162 | [Find Peak Element](./Array/Find%20Peak%20Element/) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
+| 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
+| 198 | [House Robber](./Array/House%20Robber/) | Medium |
+| 200 | [Number of Islands](./Array/Number%20of%20Islands/) | Medium |
+| 204 | [Count Primes](./Array/Count%20Primes/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
+| 215 | [Kth Largest Element in an Array](./Array/Kth%20Largest%20Element%20in%20an%20Array/) | Medium |
 | 216 | [Combination Sum III](./Array/Combination%20Sum%20III/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
@@ -209,6 +226,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
+| 146 | [LRU Cache](./Hash%20Table/LRU%20Cache/) | Medium |
 | 187 | [Repeated DNA Sequences](./Hash%20Table/Repeated%20DNA%20Sequences/) | Medium |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
