@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890746993" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890757374" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -35,6 +35,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 79 | [Word Search](./Array/Word%20Search/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
@@ -55,6 +56,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 162 | [Find Peak Element](./Array/Find%20Peak%20Element/) | Medium |
+| 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
@@ -80,10 +82,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 274 | [H-Index](./Array/H-Index/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
+| 289 | [Game of Life](./Array/Game%20of%20Life/) | Medium |
+| 313 | [Super Ugly Number](./Array/Super%20Ugly%20Number/) | Medium |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 376 | [Wiggle Subsequence](./Array/Wiggle%20Subsequence/) | Medium |
+| 378 | [Kth Smallest Element in a Sorted Matrix](./Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/) | Medium |
 | 391 | [Perfect Rectangle](./Array/Perfect%20Rectangle/) | Hard |
+| 419 | [Battleships in a Board](./Array/Battleships%20in%20a%20Board/) | Medium |
+| 427 | [Construct Quad Tree](./Array/Construct%20Quad%20Tree/) | Medium |
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
+| 436 | [Find Right Interval](./Array/Find%20Right%20Interval/) | Medium |
 | 442 | [Find All Duplicates in an Array](./Array/Find%20All%20Duplicates%20in%20an%20Array/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 453 | [Minimum Moves to Equal Array Elements](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements/) | Medium |
@@ -92,6 +101,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 491 | [Non-decreasing Subsequences](./Array/Non-decreasing%20Subsequences/) | Medium |
 | 493 | [Reverse Pairs](./Array/Reverse%20Pairs/) | Hard |
+| 494 | [Target Sum](./Array/Target%20Sum/) | Medium |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
@@ -262,6 +272,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
+| 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
+| 133 | [Clone Graph](./Hash%20Table/Clone%20Graph/) | Medium |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 146 | [LRU Cache](./Hash%20Table/LRU%20Cache/) | Medium |
 | 187 | [Repeated DNA Sequences](./Hash%20Table/Repeated%20DNA%20Sequences/) | Medium |
@@ -292,6 +304,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 23 | [Merge k Sorted Lists](./Linked%20List/Merge%20k%20Sorted%20Lists/) | Hard |
 | 25 | [Reverse Nodes in k-Group](./Linked%20List/Reverse%20Nodes%20in%20k-Group/) | Hard |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
+| 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
 | 143 | [Reorder List](./Linked%20List/Reorder%20List/) | Medium |
 | 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
 | 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
@@ -315,8 +328,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
+| 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
 | 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 458 | [Poor Pigs](./Math/Poor%20Pigs/) | Hard |
@@ -346,6 +361,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
 | 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
 | 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
+| 155 | [Min Stack](./Stack/Min%20Stack/) | Medium |
 | 173 | [Binary Search Tree Iterator](./Stack/Binary%20Search%20Tree%20Iterator/) | Medium |
 | 232 | [Implement Queue using Stacks](./Stack/Implement%20Queue%20using%20Stacks/) | Easy |
 
@@ -365,6 +381,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
 | 214 | [Shortest Palindrome](./String/Shortest%20Palindrome/) | Hard |
+| 385 | [Mini Parser](./String/Mini%20Parser/) | Medium |
 | 394 | [Decode String](./String/Decode%20String/) | Medium |
 | 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 | 514 | [Freedom Trail](./String/Freedom%20Trail/) | Hard |
@@ -403,6 +420,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
 | 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
 | 404 | [Sum of Left Leaves](./Tree/Sum%20of%20Left%20Leaves/) | Easy |
+| 429 | [N-ary Tree Level Order Traversal](./Tree/N-ary%20Tree%20Level%20Order%20Traversal/) | Medium |
 | 450 | [Delete Node in a BST](./Tree/Delete%20Node%20in%20a%20BST/) | Medium |
 | 515 | [Find Largest Value in Each Tree Row](./Tree/Find%20Largest%20Value%20in%20Each%20Tree%20Row/) | Medium |
 | 617 | [Merge Two Binary Trees](./Tree/Merge%20Two%20Binary%20Trees/) | Easy |

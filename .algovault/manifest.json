@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:19:06.991Z",
+  "lastUpdated": "2026-08-28T04:19:17.371Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5225,6 +5225,356 @@
               "runtime": "2 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Tree/Find Largest Value in Each Tree Row/"
+            }
+          }
+        },
+        "target-sum": {
+          "questionId": "494",
+          "title": "Target Sum",
+          "titleSlug": "target-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757368,
+              "runtime": "643 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Target Sum/"
+            }
+          }
+        },
+        "mini-parser": {
+          "questionId": "385",
+          "title": "Mini Parser",
+          "titleSlug": "mini-parser",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Depth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757368,
+              "runtime": "6 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/String/Mini Parser/"
+            }
+          }
+        },
+        "maximum-gap": {
+          "questionId": "164",
+          "title": "Maximum Gap",
+          "titleSlug": "maximum-gap",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Bucket Sort",
+            "Radix Sort",
+            "Pigeonhole Principle"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757368,
+              "runtime": "44 ms",
+              "memory": "91 MB",
+              "githubPath": "LeetCode/Array/Maximum Gap/"
+            }
+          }
+        },
+        "find-right-interval": {
+          "questionId": "436",
+          "title": "Find Right Interval",
+          "titleSlug": "find-right-interval",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "26 ms",
+              "memory": "49.9 MB",
+              "githubPath": "LeetCode/Array/Find Right Interval/"
+            }
+          }
+        },
+        "n-ary-tree-level-order-traversal": {
+          "questionId": "429",
+          "title": "N-ary Tree Level Order Traversal",
+          "titleSlug": "n-ary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "3 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Tree/N-ary Tree Level Order Traversal/"
+            }
+          }
+        },
+        "construct-quad-tree": {
+          "questionId": "427",
+          "title": "Construct Quad Tree",
+          "titleSlug": "construct-quad-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Tree",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Construct Quad Tree/"
+            }
+          }
+        },
+        "battleships-in-a-board": {
+          "questionId": "419",
+          "title": "Battleships in a Board",
+          "titleSlug": "battleships-in-a-board",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "1 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Battleships in a Board/"
+            }
+          }
+        },
+        "kth-smallest-element-in-a-sorted-matrix": {
+          "questionId": "378",
+          "title": "Kth Smallest Element in a Sorted Matrix",
+          "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "16 ms",
+              "memory": "51.9 MB",
+              "githubPath": "LeetCode/Array/Kth Smallest Element in a Sorted Matrix/"
+            }
+          }
+        },
+        "wiggle-subsequence": {
+          "questionId": "376",
+          "title": "Wiggle Subsequence",
+          "titleSlug": "wiggle-subsequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Wiggle Subsequence/"
+            }
+          }
+        },
+        "integer-break": {
+          "questionId": "343",
+          "title": "Integer Break",
+          "titleSlug": "integer-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Integer Break/"
+            }
+          }
+        },
+        "super-ugly-number": {
+          "questionId": "313",
+          "title": "Super Ugly Number",
+          "titleSlug": "super-ugly-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "47 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Array/Super Ugly Number/"
+            }
+          }
+        },
+        "game-of-life": {
+          "questionId": "289",
+          "title": "Game of Life",
+          "titleSlug": "game-of-life",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Game of Life/"
+            }
+          }
+        },
+        "min-stack": {
+          "questionId": "155",
+          "title": "Min Stack",
+          "titleSlug": "min-stack",
+          "difficulty": "Medium",
+          "tags": [
+            "Stack",
+            "Design"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "5 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Stack/Min Stack/"
+            }
+          }
+        },
+        "clone-graph": {
+          "questionId": "133",
+          "title": "Clone Graph",
+          "titleSlug": "clone-graph",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757369,
+              "runtime": "26 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Hash Table/Clone Graph/"
+            }
+          }
+        },
+        "unique-binary-search-trees": {
+          "questionId": "96",
+          "title": "Unique Binary Search Trees",
+          "titleSlug": "unique-binary-search-trees",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757370,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Unique Binary Search Trees/"
+            }
+          }
+        },
+        "partition-list": {
+          "questionId": "86",
+          "title": "Partition List",
+          "titleSlug": "partition-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757370,
+              "runtime": "0 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Linked List/Partition List/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757370,
+              "runtime": "210 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
+            }
+          }
+        },
+        "letter-combinations-of-a-phone-number": {
+          "questionId": "17",
+          "title": "Letter Combinations of a Phone Number",
+          "titleSlug": "letter-combinations-of-a-phone-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890757370,
+              "runtime": "3 ms",
+              "memory": "48.9 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
             }
           }
         }
