@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:52:05.456Z",
+  "lastUpdated": "2026-08-28T03:52:18.745Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2691,20 +2691,20 @@
             }
           }
         },
-        "customers-who-never-order": {
-          "questionId": "183",
-          "title": "Customers Who Never Order",
-          "titleSlug": "customers-who-never-order",
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
           "difficulty": "Easy",
           "tags": [
             "Database"
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787889125456,
-              "runtime": "508 ms",
+              "syncedAt": 1787889138745,
+              "runtime": "320 ms",
               "memory": "0B",
-              "githubPath": "LeetCode/Database/Customers Who Never Order/"
+              "githubPath": "LeetCode/Database/Big Countries/"
             }
           }
         }
