@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:51:53.064Z",
+  "lastUpdated": "2026-08-28T03:52:05.456Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2691,20 +2691,20 @@
             }
           }
         },
-        "rising-temperature": {
-          "questionId": "197",
-          "title": "Rising Temperature",
-          "titleSlug": "rising-temperature",
+        "customers-who-never-order": {
+          "questionId": "183",
+          "title": "Customers Who Never Order",
+          "titleSlug": "customers-who-never-order",
           "difficulty": "Easy",
           "tags": [
             "Database"
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787889113063,
-              "runtime": "1290 ms",
+              "syncedAt": 1787889125456,
+              "runtime": "508 ms",
               "memory": "0B",
-              "githubPath": "LeetCode/Database/Rising Temperature/"
+              "githubPath": "LeetCode/Database/Customers Who Never Order/"
             }
           }
         }
