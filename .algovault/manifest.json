@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:51:27.489Z",
+  "lastUpdated": "2026-08-28T03:51:36.887Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2468,9 +2468,9 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787559484290,
-              "runtime": "282 ms",
-              "memory": "0.0B",
+              "syncedAt": 1787889096887,
+              "runtime": "308 ms",
+              "memory": "0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
             }
           }
