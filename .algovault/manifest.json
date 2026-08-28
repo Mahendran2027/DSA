@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:18:43.908Z",
+  "lastUpdated": "2026-08-28T04:18:56.716Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4517,6 +4517,377 @@
               "runtime": "78 ms",
               "memory": "59 MB",
               "githubPath": "LeetCode/Array/Reverse Pairs/"
+            }
+          }
+        },
+        "count-the-repetitions": {
+          "questionId": "466",
+          "title": "Count The Repetitions",
+          "titleSlug": "count-the-repetitions",
+          "difficulty": "Hard",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "2 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Count The Repetitions/"
+            }
+          }
+        },
+        "sliding-window-maximum": {
+          "questionId": "239",
+          "title": "Sliding Window Maximum",
+          "titleSlug": "sliding-window-maximum",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Queue",
+            "Sliding Window",
+            "Heap (Priority Queue)",
+            "Monotonic Queue",
+            "Range Minimum/Maximum Query"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "31 ms",
+              "memory": "146.8 MB",
+              "githubPath": "LeetCode/Array/Sliding Window Maximum/"
+            }
+          }
+        },
+        "the-skyline-problem": {
+          "questionId": "218",
+          "title": "The Skyline Problem",
+          "titleSlug": "the-skyline-problem",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Sweep Line",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "5 ms",
+              "memory": "54.6 MB",
+              "githubPath": "LeetCode/Array/The Skyline Problem/"
+            }
+          }
+        },
+        "largest-rectangle-in-histogram": {
+          "questionId": "84",
+          "title": "Largest Rectangle in Histogram",
+          "titleSlug": "largest-rectangle-in-histogram",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack",
+            "Range Minimum/Maximum Query"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "23 ms",
+              "memory": "81.2 MB",
+              "githubPath": "LeetCode/Array/Largest Rectangle in Histogram/"
+            }
+          }
+        },
+        "find-the-original-typed-string-ii": {
+          "questionId": "3333",
+          "title": "Find the Original Typed String II",
+          "titleSlug": "find-the-original-typed-string-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "182 ms",
+              "memory": "65.6 MB",
+              "githubPath": "LeetCode/String/Find the Original Typed String II/"
+            }
+          }
+        },
+        "number-of-subsequences-that-satisfy-the-given-sum-condition": {
+          "questionId": "1498",
+          "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+          "titleSlug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "32 ms",
+              "memory": "66.9 MB",
+              "githubPath": "LeetCode/Array/Number of Subsequences That Satisfy the Given Sum Condition/"
+            }
+          }
+        },
+        "couples-holding-hands": {
+          "questionId": "765",
+          "title": "Couples Holding Hands",
+          "titleSlug": "couples-holding-hands",
+          "difficulty": "Hard",
+          "tags": [
+            "Greedy",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Greedy/Couples Holding Hands/"
+            }
+          }
+        },
+        "parse-lisp-expression": {
+          "questionId": "736",
+          "title": "Parse Lisp Expression",
+          "titleSlug": "parse-lisp-expression",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "3 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Hash Table/Parse Lisp Expression/"
+            }
+          }
+        },
+        "falling-squares": {
+          "questionId": "699",
+          "title": "Falling Squares",
+          "titleSlug": "falling-squares",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Segment Tree",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "15 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Falling Squares/"
+            }
+          }
+        },
+        "strange-printer": {
+          "questionId": "664",
+          "title": "Strange Printer",
+          "titleSlug": "strange-printer",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "12 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/String/Strange Printer/"
+            }
+          }
+        },
+        "erect-the-fence": {
+          "questionId": "587",
+          "title": "Erect the Fence",
+          "titleSlug": "erect-the-fence",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry",
+            "Convex Hull",
+            "Polygons"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "27 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/Array/Erect the Fence/"
+            }
+          }
+        },
+        "remove-boxes": {
+          "questionId": "546",
+          "title": "Remove Boxes",
+          "titleSlug": "remove-boxes",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "27 ms",
+              "memory": "71.4 MB",
+              "githubPath": "LeetCode/Array/Remove Boxes/"
+            }
+          }
+        },
+        "largest-palindrome-product": {
+          "questionId": "479",
+          "title": "Largest Palindrome Product",
+          "titleSlug": "largest-palindrome-product",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "138 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Math/Largest Palindrome Product/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736715,
+              "runtime": "6 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "k-similar-strings": {
+          "questionId": "854",
+          "title": "K-Similar Strings",
+          "titleSlug": "k-similar-strings",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736716,
+              "runtime": "31 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Hash Table/K-Similar Strings/"
+            }
+          }
+        },
+        "range-module": {
+          "questionId": "715",
+          "title": "Range Module",
+          "titleSlug": "range-module",
+          "difficulty": "Hard",
+          "tags": [
+            "Design",
+            "Segment Tree",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736716,
+              "runtime": "50 ms",
+              "memory": "58.4 MB",
+              "githubPath": "LeetCode/Design/Range Module/"
+            }
+          }
+        },
+        "tag-validator": {
+          "questionId": "591",
+          "title": "Tag Validator",
+          "titleSlug": "tag-validator",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736716,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/Tag Validator/"
+            }
+          }
+        },
+        "freedom-trail": {
+          "questionId": "514",
+          "title": "Freedom Trail",
+          "titleSlug": "freedom-trail",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Depth-First Search",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736716,
+              "runtime": "6 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/String/Freedom Trail/"
+            }
+          }
+        },
+        "smallest-good-base": {
+          "questionId": "483",
+          "title": "Smallest Good Base",
+          "titleSlug": "smallest-good-base",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890736716,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Smallest Good Base/"
             }
           }
         }

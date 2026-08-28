@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890723910" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890736717" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -35,6 +35,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
+| 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
@@ -62,11 +63,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 215 | [Kth Largest Element in an Array](./Array/Kth%20Largest%20Element%20in%20an%20Array/) | Medium |
 | 216 | [Combination Sum III](./Array/Combination%20Sum%20III/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 218 | [The Skyline Problem](./Array/The%20Skyline%20Problem/) | Hard |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 221 | [Maximal Square](./Array/Maximal%20Square/) | Medium |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 229 | [Majority Element II](./Array/Majority%20Element%20II/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 240 | [Search a 2D Matrix II](./Array/Search%20a%202D%20Matrix%20II/) | Medium |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
@@ -87,12 +90,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 526 | [Beautiful Arrangement](./Array/Beautiful%20Arrangement/) | Medium |
 | 540 | [Single Element in a Sorted Array](./Array/Single%20Element%20in%20a%20Sorted%20Array/) | Medium |
+| 546 | [Remove Boxes](./Array/Remove%20Boxes/) | Hard |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
+| 587 | [Erect the Fence](./Array/Erect%20the%20Fence/) | Hard |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 648 | [Replace Words](./Array/Replace%20Words/) | Medium |
 | 682 | [Baseball Game](./Array/Baseball%20Game/) | Easy |
 | 691 | [Stickers to Spell Word](./Array/Stickers%20to%20Spell%20Word/) | Hard |
+| 699 | [Falling Squares](./Array/Falling%20Squares/) | Hard |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 710 | [Random Pick with Blacklist](./Array/Random%20Pick%20with%20Blacklist/) | Hard |
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
@@ -113,6 +119,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1464 | [Maximum Product of Two Elements in an Array](./Array/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
+| 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](./Array/Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition/) | Medium |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
 | 1588 | [Sum of All Odd Length Subarrays](./Array/Sum%20of%20All%20Odd%20Length%20Subarrays/) | Easy |
 | 1662 | [Check If Two String Arrays are Equivalent](./Array/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/) | Easy |
@@ -199,6 +206,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 715 | [Range Module](./Design/Range%20Module/) | Hard |
 | 933 | [Number of Recent Calls](./Design/Number%20of%20Recent%20Calls/) | Easy |
 
 </details>
@@ -226,6 +234,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Greedy
+<details>
+<summary>Click to expand Greedy problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 765 | [Couples Holding Hands](./Greedy/Couples%20Holding%20Hands/) | Hard |
+
+</details>
+
+
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
@@ -246,6 +265,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 460 | [LFU Cache](./Hash%20Table/LFU%20Cache/) | Hard |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 726 | [Number of Atoms](./Hash%20Table/Number%20of%20Atoms/) | Hard |
+| 736 | [Parse Lisp Expression](./Hash%20Table/Parse%20Lisp%20Expression/) | Hard |
+| 854 | [K-Similar Strings](./Hash%20Table/K-Similar%20Strings/) | Hard |
 | 1079 | [Letter Tile Possibilities](./Hash%20Table/Letter%20Tile%20Possibilities/) | Medium |
 
 </details>
@@ -286,6 +307,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
+| 483 | [Smallest Good Base](./Math/Smallest%20Good%20Base/) | Hard |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
 | 633 | [Sum of Square Numbers](./Math/Sum%20of%20Square%20Numbers/) | Medium |
@@ -321,13 +344,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
 | 394 | [Decode String](./String/Decode%20String/) | Medium |
 | 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
+| 514 | [Freedom Trail](./String/Freedom%20Trail/) | Hard |
 | 521 | [Longest Uncommon Subsequence I](./String/Longest%20Uncommon%20Subsequence%20I/) | Easy |
+| 591 | [Tag Validator](./String/Tag%20Validator/) | Hard |
+| 664 | [Strange Printer](./String/Strange%20Printer/) | Hard |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 936 | [Stamping The Sequence](./String/Stamping%20The%20Sequence/) | Hard |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
@@ -338,6 +365,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 | 2696 | [Minimum String Length After Removing Substrings](./String/Minimum%20String%20Length%20After%20Removing%20Substrings/) | Easy |
 | 3174 | [Clear Digits](./String/Clear%20Digits/) | Easy |
+| 3333 | [Find the Original Typed String II](./String/Find%20the%20Original%20Typed%20String%20II/) | Hard |
 
 </details>
 
@@ -380,6 +408,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
 | 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
+| 466 | [Count The Repetitions](./Two%20Pointers/Count%20The%20Repetitions/) | Hard |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
 | 844 | [Backspace String Compare](./Two%20Pointers/Backspace%20String%20Compare/) | Easy |
 | 917 | [Reverse Only Letters](./Two%20Pointers/Reverse%20Only%20Letters/) | Easy |
