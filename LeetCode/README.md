@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890678887" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890685129" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
+| 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
@@ -156,6 +157,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Design
+<details>
+<summary>Click to expand Design problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 933 | [Number of Recent Calls](./Design/Number%20of%20Recent%20Calls/) | Easy |
+
+</details>
+
+
 ### Divide and Conquer
 <details>
 <summary>Click to expand Divide and Conquer problems</summary>
@@ -188,7 +200,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
+| 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 451 | [Sort Characters By Frequency](./Hash%20Table/Sort%20Characters%20By%20Frequency/) | Medium |
+| 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 1079 | [Letter Tile Possibilities](./Hash%20Table/Letter%20Tile%20Possibilities/) | Medium |
 
 </details>
@@ -201,8 +215,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
+| 19 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/) | Medium |
+| 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 143 | [Reorder List](./Linked%20List/Reorder%20List/) | Medium |
 | 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
+| 234 | [Palindrome Linked List](./Linked%20List/Palindrome%20Linked%20List/) | Easy |
+| 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
 | 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Medium |
 | 445 | [Add Two Numbers II](./Linked%20List/Add%20Two%20Numbers%20II/) | Medium |
 | 2095 | [Delete the Middle Node of a Linked List](./Linked%20List/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/) | Medium |
@@ -245,6 +263,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
 | 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
 | 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
+| 232 | [Implement Queue using Stacks](./Stack/Implement%20Queue%20using%20Stacks/) | Easy |
 
 </details>
 
@@ -262,6 +281,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1078 | [Occurrences After Bigram](./String/Occurrences%20After%20Bigram/) | Easy |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
 | 1910 | [Remove All Occurrences of a Substring](./String/Remove%20All%20Occurrences%20of%20a%20Substring/) | Medium |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |

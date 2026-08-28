@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:17:58.884Z",
+  "lastUpdated": "2026-08-28T04:18:05.126Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3253,6 +3253,191 @@
               "runtime": "0 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Linked List/Odd Even Linked List/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890685125,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
+            }
+          }
+        },
+        "permutation-in-string": {
+          "questionId": "567",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890685125,
+              "runtime": "6 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Hash Table/Permutation in String/"
+            }
+          }
+        },
+        "find-all-anagrams-in-a-string": {
+          "questionId": "438",
+          "title": "Find All Anagrams in a String",
+          "titleSlug": "find-all-anagrams-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890685126,
+              "runtime": "9 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
+            }
+          }
+        },
+        "maximum-number-of-vowels-in-a-substring-of-given-length": {
+          "questionId": "1456",
+          "title": "Maximum Number of Vowels in a Substring of Given Length",
+          "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890685126,
+              "runtime": "12 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
+            }
+          }
+        },
+        "palindrome-linked-list": {
+          "questionId": "234",
+          "title": "Palindrome Linked List",
+          "titleSlug": "palindrome-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890685126,
+              "runtime": "3 ms",
+              "memory": "94.2 MB",
+              "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
+            }
+          }
+        },
+        "remove-nth-node-from-end-of-list": {
+          "questionId": "19",
+          "title": "Remove Nth Node From End of List",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890685126,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
+            }
+          }
+        },
+        "delete-node-in-a-linked-list": {
+          "questionId": "237",
+          "title": "Delete Node in a Linked List",
+          "titleSlug": "delete-node-in-a-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890685126,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list": {
+          "questionId": "83",
+          "title": "Remove Duplicates from Sorted List",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890685126,
+              "runtime": "0 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
+            }
+          }
+        },
+        "number-of-recent-calls": {
+          "questionId": "933",
+          "title": "Number of Recent Calls",
+          "titleSlug": "number-of-recent-calls",
+          "difficulty": "Easy",
+          "tags": [
+            "Design",
+            "Queue",
+            "Data Stream"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890685126,
+              "runtime": "22 ms",
+              "memory": "59.7 MB",
+              "githubPath": "LeetCode/Design/Number of Recent Calls/"
+            }
+          }
+        },
+        "implement-queue-using-stacks": {
+          "questionId": "232",
+          "title": "Implement Queue using Stacks",
+          "titleSlug": "implement-queue-using-stacks",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Design",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890685126,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Stack/Implement Queue using Stacks/"
             }
           }
         }
