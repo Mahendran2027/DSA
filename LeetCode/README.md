@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890712648" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890723910" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,6 +18,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
+| 15 | [3Sum](./Array/3Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
@@ -26,6 +27,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
+| 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
@@ -40,6 +42,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 120 | [Triangle](./Array/Triangle/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/) | Medium |
+| 123 | [Best Time to Buy and Sell Stock III](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/) | Hard |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
@@ -80,6 +83,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 477 | [Total Hamming Distance](./Array/Total%20Hamming%20Distance/) | Medium |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 491 | [Non-decreasing Subsequences](./Array/Non-decreasing%20Subsequences/) | Medium |
+| 493 | [Reverse Pairs](./Array/Reverse%20Pairs/) | Hard |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 526 | [Beautiful Arrangement](./Array/Beautiful%20Arrangement/) | Medium |
 | 540 | [Single Element in a Sorted Array](./Array/Single%20Element%20in%20a%20Sorted%20Array/) | Medium |
@@ -88,15 +92,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 648 | [Replace Words](./Array/Replace%20Words/) | Medium |
 | 682 | [Baseball Game](./Array/Baseball%20Game/) | Easy |
+| 691 | [Stickers to Spell Word](./Array/Stickers%20to%20Spell%20Word/) | Hard |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
+| 710 | [Random Pick with Blacklist](./Array/Random%20Pick%20with%20Blacklist/) | Hard |
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
 | 747 | [Largest Number At Least Twice of Others](./Array/Largest%20Number%20At%20Least%20Twice%20of%20Others/) | Easy |
 | 819 | [Most Common Word](./Array/Most%20Common%20Word/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
+| 956 | [Tallest Billboard](./Array/Tallest%20Billboard/) | Hard |
 | 974 | [Subarray Sums Divisible by K](./Array/Subarray%20Sums%20Divisible%20by%20K/) | Medium |
 | 977 | [Squares of a Sorted Array](./Array/Squares%20of%20a%20Sorted%20Array/) | Easy |
+| 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
+| 1001 | [Grid Illumination](./Array/Grid%20Illumination/) | Hard |
 | 1018 | [Binary Prefix Divisible By 5](./Array/Binary%20Prefix%20Divisible%20By%205/) | Easy |
 | 1207 | [Unique Number of Occurrences](./Array/Unique%20Number%20of%20Occurrences/) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
@@ -234,7 +243,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 451 | [Sort Characters By Frequency](./Hash%20Table/Sort%20Characters%20By%20Frequency/) | Medium |
+| 460 | [LFU Cache](./Hash%20Table/LFU%20Cache/) | Hard |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
+| 726 | [Number of Atoms](./Hash%20Table/Number%20of%20Atoms/) | Hard |
 | 1079 | [Letter Tile Possibilities](./Hash%20Table/Letter%20Tile%20Possibilities/) | Medium |
 
 </details>
@@ -279,6 +290,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
 | 633 | [Sum of Square Numbers](./Math/Sum%20of%20Square%20Numbers/) | Medium |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
+| 780 | [Reaching Points](./Math/Reaching%20Points/) | Hard |
 | 1486 | [XOR Operation in an Array](./Math/XOR%20Operation%20in%20an%20Array/) | Easy |
 | 2544 | [Alternating Digit Sum](./Math/Alternating%20Digit%20Sum/) | Easy |
 | 3345 | [Smallest Divisible Digit Product I](./Math/Smallest%20Divisible%20Digit%20Product%20I/) | Easy |
@@ -310,10 +322,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
+| 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
+| 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
 | 394 | [Decode String](./String/Decode%20String/) | Medium |
 | 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 | 521 | [Longest Uncommon Subsequence I](./String/Longest%20Uncommon%20Subsequence%20I/) | Easy |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
+| 936 | [Stamping The Sequence](./String/Stamping%20The%20Sequence/) | Hard |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1078 | [Occurrences After Bigram](./String/Occurrences%20After%20Bigram/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
@@ -332,10 +348,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
 | 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
 | 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
+| 107 | [Binary Tree Level Order Traversal II](./Tree/Binary%20Tree%20Level%20Order%20Traversal%20II/) | Medium |
 | 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 112 | [Path Sum](./Tree/Path%20Sum/) | Easy |
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |

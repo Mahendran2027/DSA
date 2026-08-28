@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:18:32.647Z",
+  "lastUpdated": "2026-08-28T04:18:43.908Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4156,6 +4156,367 @@
               "runtime": "47 ms",
               "memory": "134 MB",
               "githubPath": "LeetCode/Hash Table/LRU Cache/"
+            }
+          }
+        },
+        "palindrome-partitioning": {
+          "questionId": "131",
+          "title": "Palindrome Partitioning",
+          "titleSlug": "palindrome-partitioning",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723905,
+              "runtime": "7 ms",
+              "memory": "65.3 MB",
+              "githubPath": "LeetCode/String/Palindrome Partitioning/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal-ii": {
+          "questionId": "107",
+          "title": "Binary Tree Level Order Traversal II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723906,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal II/"
+            }
+          }
+        },
+        "validate-binary-search-tree": {
+          "questionId": "98",
+          "title": "Validate Binary Search Tree",
+          "titleSlug": "validate-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723906,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Tree/Validate Binary Search Tree/"
+            }
+          }
+        },
+        "interleaving-string": {
+          "questionId": "97",
+          "title": "Interleaving String",
+          "titleSlug": "interleaving-string",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723906,
+              "runtime": "3 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Interleaving String/"
+            }
+          }
+        },
+        "simplify-path": {
+          "questionId": "71",
+          "title": "Simplify Path",
+          "titleSlug": "simplify-path",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723906,
+              "runtime": "6 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/String/Simplify Path/"
+            }
+          }
+        },
+        "3sum": {
+          "questionId": "15",
+          "title": "3Sum",
+          "titleSlug": "3sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723906,
+              "runtime": "29 ms",
+              "memory": "59.2 MB",
+              "githubPath": "LeetCode/Array/3Sum/"
+            }
+          }
+        },
+        "grid-illumination": {
+          "questionId": "1001",
+          "title": "Grid Illumination",
+          "titleSlug": "grid-illumination",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723906,
+              "runtime": "98 ms",
+              "memory": "101 MB",
+              "githubPath": "LeetCode/Array/Grid Illumination/"
+            }
+          }
+        },
+        "number-of-squareful-arrays": {
+          "questionId": "996",
+          "title": "Number of Squareful Arrays",
+          "titleSlug": "number-of-squareful-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723906,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/Number of Squareful Arrays/"
+            }
+          }
+        },
+        "tallest-billboard": {
+          "questionId": "956",
+          "title": "Tallest Billboard",
+          "titleSlug": "tallest-billboard",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Meet in the Middle",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723906,
+              "runtime": "11 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Tallest Billboard/"
+            }
+          }
+        },
+        "stamping-the-sequence": {
+          "questionId": "936",
+          "title": "Stamping The Sequence",
+          "titleSlug": "stamping-the-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Stack",
+            "Greedy",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723906,
+              "runtime": "6 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/String/Stamping The Sequence/"
+            }
+          }
+        },
+        "reaching-points": {
+          "questionId": "780",
+          "title": "Reaching Points",
+          "titleSlug": "reaching-points",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723907,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Reaching Points/"
+            }
+          }
+        },
+        "random-pick-with-blacklist": {
+          "questionId": "710",
+          "title": "Random Pick with Blacklist",
+          "titleSlug": "random-pick-with-blacklist",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Sorting",
+            "Randomized"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723907,
+              "runtime": "52 ms",
+              "memory": "63.4 MB",
+              "githubPath": "LeetCode/Array/Random Pick with Blacklist/"
+            }
+          }
+        },
+        "stickers-to-spell-word": {
+          "questionId": "691",
+          "title": "Stickers to Spell Word",
+          "titleSlug": "stickers-to-spell-word",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Memoization",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723907,
+              "runtime": "140 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Stickers to Spell Word/"
+            }
+          }
+        },
+        "lfu-cache": {
+          "questionId": "460",
+          "title": "LFU Cache",
+          "titleSlug": "lfu-cache",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Doubly-Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723907,
+              "runtime": "77 ms",
+              "memory": "143.7 MB",
+              "githubPath": "LeetCode/Hash Table/LFU Cache/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-iii": {
+          "questionId": "123",
+          "title": "Best Time to Buy and Sell Stock III",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723907,
+              "runtime": "1 ms",
+              "memory": "76 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock III/"
+            }
+          }
+        },
+        "n-queens": {
+          "questionId": "51",
+          "title": "N-Queens",
+          "titleSlug": "n-queens",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Algorithm X"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723907,
+              "runtime": "2 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/N-Queens/"
+            }
+          }
+        },
+        "number-of-atoms": {
+          "questionId": "726",
+          "title": "Number of Atoms",
+          "titleSlug": "number-of-atoms",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Stack",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723907,
+              "runtime": "4 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Hash Table/Number of Atoms/"
+            }
+          }
+        },
+        "reverse-pairs": {
+          "questionId": "493",
+          "title": "Reverse Pairs",
+          "titleSlug": "reverse-pairs",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Merge Sort",
+            "Ordered Set",
+            "Treap"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890723908,
+              "runtime": "78 ms",
+              "memory": "59 MB",
+              "githubPath": "LeetCode/Array/Reverse Pairs/"
             }
           }
         }
