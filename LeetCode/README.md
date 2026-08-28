@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890570515" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787890579089" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -83,6 +83,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 1961 | [Check If String Is a Prefix of Array](./Array/Check%20If%20String%20Is%20a%20Prefix%20of%20Array/) | Easy |
 | 2032 | [Two Out of Three](./Array/Two%20Out%20of%20Three/) | Easy |
+| 2089 | [Find Target Indices After Sorting Array](./Array/Find%20Target%20Indices%20After%20Sorting%20Array/) | Easy |
 | 2149 | [Rearrange Array Elements by Sign](./Array/Rearrange%20Array%20Elements%20by%20Sign/) | Medium |
 | 2256 | [Minimum Average Difference](./Array/Minimum%20Average%20Difference/) | Medium |
 | 2527 | [Find Xor-Beauty of Array](./Array/Find%20Xor-Beauty%20of%20Array/) | Medium |
@@ -137,6 +138,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
 | 570 | [Managers with at Least 5 Direct Reports](./Database/Managers%20with%20at%20Least%205%20Direct%20Reports/) | Medium |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
+| 1729 | [Find Followers Count](./Database/Find%20Followers%20Count/) | Easy |
 | 1741 | [Find Total Time Spent by Each Employee](./Database/Find%20Total%20Time%20Spent%20by%20Each%20Employee/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 

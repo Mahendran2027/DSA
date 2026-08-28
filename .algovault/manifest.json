@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:16:10.511Z",
+  "lastUpdated": "2026-08-28T04:16:19.089Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -14,7 +14,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559405124,
+              "syncedAt": 1787890579088,
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Math/Alternating Digit Sum/"
@@ -33,7 +33,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559405124,
+              "syncedAt": 1787890579088,
               "runtime": "2 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Add Digits/"
@@ -51,7 +51,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559405124,
+              "syncedAt": 1787890579088,
               "runtime": "3 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/String/Make The String Great/"
@@ -70,7 +70,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559405124,
+              "syncedAt": 1787890579088,
               "runtime": "3 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Math/Multiply Strings/"
@@ -89,7 +89,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559405124,
+              "syncedAt": 1787890579089,
               "runtime": "3 ms",
               "memory": "45.9 MB",
               "githubPath": "LeetCode/Array/Minimum Positive Sum Subarray /"
@@ -107,7 +107,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559405124,
+              "syncedAt": 1787890579089,
               "runtime": "1 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Check If Two String Arrays are Equivalent/"
@@ -2509,7 +2509,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559492123,
+              "syncedAt": 1787890579088,
               "runtime": "11 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/String/Remove All Occurrences of a Substring/"
@@ -2528,7 +2528,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787564232531,
+              "syncedAt": 1787890579088,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/String/Decode String/"
@@ -2553,7 +2553,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787566879521,
+              "syncedAt": 1787890579088,
               "runtime": "11 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/String/Minimum String Length After Removing Substrings/"
@@ -2571,7 +2571,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630663425,
+              "syncedAt": 1787890579088,
               "runtime": "2 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Smallest Missing Multiple of K/"
@@ -2592,7 +2592,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787633167451,
+              "syncedAt": 1787890579088,
               "runtime": "40 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Beautiful Arrangement/"
@@ -2612,7 +2612,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787636894368,
+              "syncedAt": 1787890579088,
               "runtime": "7 ms",
               "memory": "52.8 MB",
               "githubPath": "LeetCode/Array/Non-decreasing Subsequences/"
@@ -2939,6 +2939,42 @@
               "runtime": "3 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Summary Ranges/"
+            }
+          }
+        },
+        "find-followers-count": {
+          "questionId": "1729",
+          "title": "Find Followers Count",
+          "titleSlug": "find-followers-count",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890579088,
+              "runtime": "684 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Followers Count/"
+            }
+          }
+        },
+        "find-target-indices-after-sorting-array": {
+          "questionId": "2089",
+          "title": "Find Target Indices After Sorting Array",
+          "titleSlug": "find-target-indices-after-sorting-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890579088,
+              "runtime": "5 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Find Target Indices After Sorting Array/"
             }
           }
         }
