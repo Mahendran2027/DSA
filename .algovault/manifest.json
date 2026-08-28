@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:19:31.904Z",
+  "lastUpdated": "2026-08-28T04:19:33.899Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2744,9 +2744,9 @@
               "githubPath": "LeetCode/String/Longest Uncommon Subsequence I/"
             },
             "1c": {
-              "syncedAt": 1787890771904,
+              "syncedAt": 1787890773899,
               "runtime": "0 ms",
-              "memory": "42.72 MB",
+              "memory": "N/A",
               "githubPath": "LeetCode/String/Longest Uncommon Subsequence I/"
             }
           }
