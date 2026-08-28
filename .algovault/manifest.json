@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:52:26.255Z",
+  "lastUpdated": "2026-08-28T03:53:01.615Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2705,6 +2705,26 @@
               "runtime": "563 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "reorder-list": {
+          "questionId": "143",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787889181615,
+              "runtime": "2 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Linked List/Reorder List/"
             }
           }
         }
