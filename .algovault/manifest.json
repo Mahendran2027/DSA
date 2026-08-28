@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:53:01.615Z",
+  "lastUpdated": "2026-08-28T03:53:27.909Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2708,23 +2708,23 @@
             }
           }
         },
-        "reorder-list": {
-          "questionId": "143",
-          "title": "Reorder List",
-          "titleSlug": "reorder-list",
-          "difficulty": "Medium",
+        "fibonacci-number": {
+          "questionId": "509",
+          "title": "Fibonacci Number",
+          "titleSlug": "fibonacci-number",
+          "difficulty": "Easy",
           "tags": [
-            "Linked List",
-            "Two Pointers",
-            "Stack",
-            "Recursion"
+            "Math",
+            "Dynamic Programming",
+            "Recursion",
+            "Memoization"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787889181615,
-              "runtime": "2 ms",
-              "memory": "48.8 MB",
-              "githubPath": "LeetCode/Linked List/Reorder List/"
+              "syncedAt": 1787889207909,
+              "runtime": "10 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Math/Fibonacci Number/"
             }
           }
         }
