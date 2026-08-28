@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:52:18.745Z",
+  "lastUpdated": "2026-08-28T03:52:26.255Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2691,20 +2691,20 @@
             }
           }
         },
-        "big-countries": {
-          "questionId": "595",
-          "title": "Big Countries",
-          "titleSlug": "big-countries",
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
           "difficulty": "Easy",
           "tags": [
             "Database"
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787889138745,
-              "runtime": "320 ms",
+              "syncedAt": 1787889146255,
+              "runtime": "563 ms",
               "memory": "0B",
-              "githubPath": "LeetCode/Database/Big Countries/"
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
             }
           }
         }
