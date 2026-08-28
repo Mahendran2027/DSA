@@ -5,44 +5,61 @@
 
 ## Problem Statement
 
-<p>Given two strings <code>a</code> and <code>b</code>, return <em>the length of the <strong>longest uncommon subsequence</strong> between </em><code>a</code> <em>and</em> <code>b</code>. <em>If no such uncommon subsequence exists, return</em> <code>-1</code><em>.</em></p>
+Given two strings a and b, return the length of the longest uncommon subsequence between a and b. If no such uncommon subsequence exists, return -1.
 
-<p>An <strong>uncommon subsequence</strong> between two strings is a string that is a <strong><span data-keyword="subsequence-string">subsequence</span> of exactly one of them</strong>.</p>
+An uncommon subsequence between two strings is a string that is a subsequence of exactly one of them.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> a = &quot;aba&quot;, b = &quot;cdc&quot;
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> One longest uncommon subsequence is &quot;aba&quot; because &quot;aba&quot; is a subsequence of &quot;aba&quot; but not &quot;cdc&quot;.
-Note that &quot;cdc&quot; is also a longest uncommon subsequence.
-</pre>
+Input: a = "aba", b = "cdc"
+Output: 3
+Explanation: One longest uncommon subsequence is "aba" because "aba" is a subsequence of "aba" but not "cdc".
+Note that "cdc" is also a longest uncommon subsequence.
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> a = &quot;aaa&quot;, b = &quot;bbb&quot;
-<strong>Output:</strong> 3
-<strong>Explanation:</strong>&nbsp;The longest uncommon subsequences are &quot;aaa&quot; and &quot;bbb&quot;.
-</pre>
+Example 2:
 
-<p><strong class="example">Example 3:</strong></p>
+Input: a = "aaa", b = "bbb"
+Output: 3
+Explanation: The longest uncommon subsequences are "aaa" and "bbb".
 
-<pre>
-<strong>Input:</strong> a = &quot;aaa&quot;, b = &quot;aaa&quot;
-<strong>Output:</strong> -1
-<strong>Explanation:</strong>&nbsp;Every subsequence of string a is also a subsequence of string b. Similarly, every subsequence of string b is also a subsequence of string a. So the answer would be <code>-1</code>.
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Example 3:
 
-<ul>
-	<li><code>1 &lt;= a.length, b.length &lt;= 100</code></li>
-	<li><code>a</code> and <code>b</code> consist of lower-case English letters.</li>
-</ul>
+Input: a = "aaa", b = "aaa"
+Output: -1
+Explanation: Every subsequence of string a is also a subsequence of string b. Similarly, every subsequence of string b is also a subsequence of string a. So the answer would be -1.
 
+
+ 
+Constraints:
+
+
+	1 <= a.length, b.length <= 100
+	a and b consist of lower-case English letters.
+
+## Examples
+
+```
+Input: a = "aba", b = "cdc"
+Output: 3
+Explanation: One longest uncommon subsequence is "aba" because "aba" is a subsequence of "aba" but not "cdc".
+Note that "cdc" is also a longest uncommon subsequence.
+
+Input: a = "aaa", b = "bbb"
+Output: 3
+Explanation: The longest uncommon subsequences are "aaa" and "bbb".
+
+Input: a = "aaa", b = "aaa"
+Output: -1
+Explanation: Every subsequence of string a is also a subsequence of string b. Similarly, every subsequence of string b is also a subsequence of string a. So the answer would be -1.
+```
+
+## Constraints
+
+- 1 <= a.length, b.length <= 100
+- a and b consist of lower-case English letters.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
