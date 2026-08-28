@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:17:32.155Z",
+  "lastUpdated": "2026-08-28T04:17:38.187Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2141,7 +2141,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559473116,
+              "syncedAt": 1787890658187,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Largest Number At Least Twice of Others/"
@@ -2159,7 +2159,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559473116,
+              "syncedAt": 1787890658187,
               "runtime": "7 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Single Number III/"
@@ -2178,7 +2178,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559473116,
+              "syncedAt": 1787890658187,
               "runtime": "28 ms",
               "memory": "111.4 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
@@ -2197,7 +2197,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559473116,
+              "syncedAt": 1787890658187,
               "runtime": "1 ms",
               "memory": "80.8 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
@@ -2214,7 +2214,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559473116,
+              "syncedAt": 1787890658187,
               "runtime": "1 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Perfect Number/"
@@ -2232,7 +2232,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559477440,
+              "syncedAt": 1787890658187,
               "runtime": "0 ms",
               "memory": "48.3 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -2253,7 +2253,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559477440,
+              "syncedAt": 1787890658187,
               "runtime": "15 ms",
               "memory": "51.3 MB",
               "githubPath": "LeetCode/Array/Assign Cookies/"
