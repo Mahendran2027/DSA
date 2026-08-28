@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:16:04.350Z",
+  "lastUpdated": "2026-08-28T04:16:10.511Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1757,7 +1757,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787646152505,
+              "syncedAt": 1787890570511,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Find the Highest Altitude/"
@@ -2468,8 +2468,8 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787559484290,
-              "runtime": "282 ms",
+              "syncedAt": 1787890570510,
+              "runtime": "308 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
             }
@@ -2631,7 +2631,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787640357491,
+              "syncedAt": 1787890570511,
               "runtime": "3 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers II/"
@@ -2649,7 +2649,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651164280,
+              "syncedAt": 1787890570511,
               "runtime": "1 ms",
               "memory": "94.3 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
@@ -2667,7 +2667,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787653190078,
+              "syncedAt": 1787890570511,
               "runtime": "16 ms",
               "memory": "48.1 MB",
               "githubPath": "LeetCode/Array/Minimum Moves to Equal Array Elements/"
@@ -2684,9 +2684,9 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787889087489,
+              "syncedAt": 1787890570510,
               "runtime": "1253 ms",
-              "memory": "0B",
+              "memory": "0.0B",
               "githubPath": "LeetCode/Database/Department Top Three Salaries/"
             }
           }
@@ -2701,9 +2701,9 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787889146255,
+              "syncedAt": 1787890570511,
               "runtime": "563 ms",
-              "memory": "0B",
+              "memory": "0.0B",
               "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
             }
           }
@@ -2721,7 +2721,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787889207909,
+              "syncedAt": 1787890570511,
               "runtime": "10 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Math/Fibonacci Number/"
@@ -2737,11 +2737,208 @@
             "String"
           ],
           "solutions": {
-            "123456class solution {    public int findluslength(string a, string b) {        if(a.equals(b)) return -1;        return math.max(a.length(),b.length());    }}": {
-              "syncedAt": 1787890564350,
+            "java": {
+              "syncedAt": 1787890570510,
               "runtime": "0 ms",
-              "memory": "N/A",
+              "memory": "42.7 MB",
               "githubPath": "LeetCode/String/Longest Uncommon Subsequence I/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890570510,
+              "runtime": "2 ms",
+              "memory": "72.1 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "longest-consecutive-sequence": {
+          "questionId": "128",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Union-Find"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890570510,
+              "runtime": "32 ms",
+              "memory": "95.3 MB",
+              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array-ii": {
+          "questionId": "81",
+          "title": "Search in Rotated Sorted Array II",
+          "titleSlug": "search-in-rotated-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890570510,
+              "runtime": "0 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "find-total-time-spent-by-each-employee": {
+          "questionId": "1741",
+          "title": "Find Total Time Spent by Each Employee",
+          "titleSlug": "find-total-time-spent-by-each-employee",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890570510,
+              "runtime": "484 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Total Time Spent by Each Employee/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890570510,
+              "runtime": "1290 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
+            }
+          }
+        },
+        "customers-who-never-order": {
+          "questionId": "183",
+          "title": "Customers Who Never Order",
+          "titleSlug": "customers-who-never-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890570510,
+              "runtime": "508 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customers Who Never Order/"
+            }
+          }
+        },
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890570511,
+              "runtime": "320 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Big Countries/"
+            }
+          }
+        },
+        "reorder-list": {
+          "questionId": "143",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890570511,
+              "runtime": "2 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Linked List/Reorder List/"
+            }
+          }
+        },
+        "total-hamming-distance": {
+          "questionId": "477",
+          "title": "Total Hamming Distance",
+          "titleSlug": "total-hamming-distance",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890570511,
+              "runtime": "1810 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Total Hamming Distance/"
+            }
+          }
+        },
+        "single-element-in-a-sorted-array": {
+          "questionId": "540",
+          "title": "Single Element in a Sorted Array",
+          "titleSlug": "single-element-in-a-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890570511,
+              "runtime": "18 ms",
+              "memory": "57.5 MB",
+              "githubPath": "LeetCode/Array/Single Element in a Sorted Array/"
+            }
+          }
+        },
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890570511,
+              "runtime": "3 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
             }
           }
         }
