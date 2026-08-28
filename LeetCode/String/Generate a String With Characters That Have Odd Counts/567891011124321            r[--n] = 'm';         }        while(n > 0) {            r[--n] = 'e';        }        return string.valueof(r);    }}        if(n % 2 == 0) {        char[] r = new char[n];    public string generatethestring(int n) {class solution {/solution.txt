@@ -1,0 +1,12 @@
+            r[--n] = 'm'; 
+        }
+        while(n > 0) {
+            r[--n] = 'e';
+        }
+        return String.valueOf(r);
+    }
+}
+        if(n % 2 == 0) {
+        char[] r = new char[n];
+    public String generateTheString(int n) {
+class Solution {

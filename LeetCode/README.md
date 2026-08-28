@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787891417385" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787891580373" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -393,6 +393,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 936 | [Stamping The Sequence](./String/Stamping%20The%20Sequence/) | Hard |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1078 | [Occurrences After Bigram](./String/Occurrences%20After%20Bigram/) | Easy |
+| 1374 | [Generate a String With Characters That Have Odd Counts](./String/Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
 | 1910 | [Remove All Occurrences of a Substring](./String/Remove%20All%20Occurrences%20of%20a%20Substring/) | Medium |

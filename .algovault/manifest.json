@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:30:17.365Z",
+  "lastUpdated": "2026-08-28T04:33:00.356Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5594,6 +5594,23 @@
               "runtime": "0 ms",
               "memory": "47.34 MB",
               "githubPath": "LeetCode/Array/Find Common Characters/"
+            }
+          }
+        },
+        "generate-a-string-with-characters-that-have-odd-counts": {
+          "questionId": "1374",
+          "title": "Generate a String With Characters That Have Odd Counts",
+          "titleSlug": "generate-a-string-with-characters-that-have-odd-counts",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "567891011124321            r[--n] = 'm';         }        while(n > 0) {            r[--n] = 'e';        }        return string.valueof(r);    }}        if(n % 2 == 0) {        char[] r = new char[n];    public string generatethestring(int n) {class solution {": {
+              "syncedAt": 1787891580356,
+              "runtime": "0 ms",
+              "memory": "42.98 MB",
+              "githubPath": "LeetCode/String/Generate a String With Characters That Have Odd Counts/"
             }
           }
         }
