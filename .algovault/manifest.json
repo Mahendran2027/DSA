@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:17:43.213Z",
+  "lastUpdated": "2026-08-28T04:17:51.955Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2400,7 +2400,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559484290,
+              "syncedAt": 1787890671954,
               "runtime": "30 ms",
               "memory": "114.8 MB",
               "githubPath": "LeetCode/Array/Find the Duplicate Number/"
@@ -2417,7 +2417,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787559484290,
+              "syncedAt": 1787890671954,
               "runtime": "574 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
@@ -2434,7 +2434,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787559484290,
+              "syncedAt": 1787890671954,
               "runtime": "1043 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Department Highest Salary/"
@@ -2451,7 +2451,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787559484290,
+              "syncedAt": 1787890671954,
               "runtime": "454 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Nth Highest Salary/"
@@ -2490,7 +2490,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787559484290,
+              "syncedAt": 1787890671954,
               "runtime": "0 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
@@ -2975,6 +2975,144 @@
               "runtime": "5 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Array/Find Target Indices After Sorting Array/"
+            }
+          }
+        },
+        "patients-with-a-condition": {
+          "questionId": "1527",
+          "title": "Patients With a Condition",
+          "titleSlug": "patients-with-a-condition",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890671955,
+              "runtime": "425 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Patients With a Condition/"
+            }
+          }
+        },
+        "user-activity-for-the-past-30-days-i": {
+          "questionId": "1141",
+          "title": "User Activity for the Past 30 Days I",
+          "titleSlug": "user-activity-for-the-past-30-days-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890671955,
+              "runtime": "485 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/User Activity for the Past 30 Days I/"
+            }
+          }
+        },
+        "article-views-i": {
+          "questionId": "1148",
+          "title": "Article Views I",
+          "titleSlug": "article-views-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890671955,
+              "runtime": "428 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Article Views I/"
+            }
+          }
+        },
+        "triangle-judgement": {
+          "questionId": "610",
+          "title": "Triangle Judgement",
+          "titleSlug": "triangle-judgement",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890671955,
+              "runtime": "310 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Triangle Judgement/"
+            }
+          }
+        },
+        "excel-sheet-column-number": {
+          "questionId": "171",
+          "title": "Excel Sheet Column Number",
+          "titleSlug": "excel-sheet-column-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890671955,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
+            }
+          }
+        },
+        "reverse-words-in-a-string": {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787890671955,
+              "runtime": "7 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            }
+          }
+        },
+        "customer-placing-the-largest-number-of-orders": {
+          "questionId": "586",
+          "title": "Customer Placing the Largest Number of Orders",
+          "titleSlug": "customer-placing-the-largest-number-of-orders",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890671955,
+              "runtime": "510 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customer Placing the Largest Number of Orders/"
+            }
+          }
+        },
+        "classes-with-at-least-5-students": {
+          "questionId": "596",
+          "title": "Classes With at Least 5 Students",
+          "titleSlug": "classes-with-at-least-5-students",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787890671955,
+              "runtime": "331 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Classes With at Least 5 Students/"
             }
           }
         }
