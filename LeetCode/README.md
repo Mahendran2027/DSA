@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787889096888" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mahendran2025_leetcode?theme=tokyonight&show=graph,recent&v=1787889113065" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -127,6 +127,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 177 | [Nth Highest Salary](./Database/Nth%20Highest%20Salary/) | Medium |
 | 184 | [Department Highest Salary](./Database/Department%20Highest%20Salary/) | Medium |
 | 185 | [Department Top Three Salaries](./Database/Department%20Top%20Three%20Salaries/) | Hard |
+| 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
 | 570 | [Managers with at Least 5 Direct Reports](./Database/Managers%20with%20at%20Least%205%20Direct%20Reports/) | Medium |
 
 </details>

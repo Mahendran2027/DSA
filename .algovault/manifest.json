@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:51:36.887Z",
+  "lastUpdated": "2026-08-28T03:51:53.064Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2468,9 +2468,9 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787889096887,
-              "runtime": "308 ms",
-              "memory": "0B",
+              "syncedAt": 1787559484290,
+              "runtime": "282 ms",
+              "memory": "0.0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
             }
           }
@@ -2688,6 +2688,23 @@
               "runtime": "1253 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Department Top Three Salaries/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787889113063,
+              "runtime": "1290 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
             }
           }
         }
